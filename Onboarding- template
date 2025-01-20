@@ -1,0 +1,2651 @@
+<html
+    xmlns:v="urn:schemas-microsoft-com:vml"
+    xmlns:o="urn:schemas-microsoft-com:office:office"
+    xmlns:w="urn:schemas-microsoft-com:office:word"
+    xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"
+    xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+    xmlns="http://www.w3.org/TR/REC-html40"
+>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=windows-1252" />
+        <meta name="ProgId" content="Word.Document" />
+        <meta name="Generator" content="Microsoft Word 12" />
+        <meta name="Originator" content="Microsoft Word 12" />
+        <base href="ARC-280121-1-5-V17" />
+        <style>
+            /* Font Definitions */
+            @font-face {
+                font-family: Wingdings;
+                panose-1: 5 0 0 0 0 0 0 0 0 0;
+            }
+            @font-face {
+                font-family: "Cambria Math";
+                panose-1: 2 4 5 3 5 4 6 3 2 4;
+            }
+            @font-face {
+                font-family: Calibri;
+                panose-1: 2 15 5 2 2 2 4 3 2 4;
+            }
+            @font-face {
+                font-family: Tahoma;
+                panose-1: 2 11 6 4 3 5 4 4 2 4;
+            }
+            @font-face {
+                font-family: "Arial Bold";
+                panose-1: 2 11 7 4 2 2 2 2 2 4;
+            }
+            @font-face {
+                font-family: Verdana;
+                panose-1: 2 11 6 4 3 5 4 4 2 4;
+            }
+            @font-face {
+                font-family: "Segoe UI";
+                panose-1: 2 11 5 2 4 2 4 2 2 3;
+            }
+            @font-face {
+                font-family: Forte;
+                panose-1: 3 6 9 2 4 5 2 7 2 3;
+                mso-font-charset: 0;
+                mso-generic-font-family: script;
+                mso-font-pitch: variable;
+                mso-font-signature: 3 0 0 0 1 0;
+            }
+            @font-face {
+                font-family: "\7B49\7EBF Light";
+                panose-1: 0 0 0 0 0 0 0 0 0 0;
+            }
+            @font-face {
+                font-family: "\@\7B49\7EBF Light";
+                panose-1: 0 0 0 0 0 0 0 0 0 0;
+            }
+            /* Style Definitions */
+            p {
+                mso-add-space: auto;
+                text-align: justify;
+            }
+            p.MsoNormal,
+            li.MsoNormal,
+            div.MsoNormal {
+                margin: 0cm;
+                tab-stops: 14.2pt;
+                text-autospace: none;
+                font-size: 8pt;
+                font-family: "Arial", "sans-serif";
+            }
+            h1 {
+                margin: 0cm;
+                tab-stops: 14.2pt;
+                text-autospace: none;
+                font-size: 14pt;
+                font-family: "Calibri", "sans-serif";
+                color: #16b99a;
+            }
+            h2 {
+                margin: 0cm;
+                tab-stops: 14.2pt;
+                text-autospace: none;
+                font-size: 14pt;
+                font-family: "Calibri", "sans-serif";
+            }
+            h3 {
+                margin: 0cm;
+                tab-stops: 14.2pt;
+                text-autospace: none;
+                font-size: 8pt;
+                font-family: "Arial", "sans-serif";
+            }
+            h4 {
+                margin-top: 2pt;
+                margin-right: 0cm;
+                margin-bottom: 0cm;
+                margin-left: 0cm;
+                page-break-after: avoid;
+                tab-stops: 14.2pt;
+                text-autospace: none;
+                font-size: 8pt;
+                font-family: "Calibri Light", "sans-serif";
+                color: #2e74b5;
+                font-weight: normal;
+                font-style: italic;
+            }
+            p.MsoCommentText,
+            li.MsoCommentText,
+            div.MsoCommentText {
+                margin: 0cm;
+                tab-stops: 14.2pt;
+                text-autospace: none;
+                font-size: 8pt;
+                font-family: "Arial", "sans-serif";
+            }
+            p.MsoHeader,
+            li.MsoHeader,
+            div.MsoHeader {
+                margin: 0cm;
+                tab-stops: 14.2pt center 225.65pt right 451.3pt;
+                text-autospace: none;
+                font-size: 8pt;
+                font-family: "Arial", "sans-serif";
+            }
+            p.MsoFooter,
+            li.MsoFooter,
+            div.MsoFooter {
+                margin: 0cm;
+                tab-stops: 14.2pt center 225.65pt right 451.3pt;
+                text-autospace: none;
+                font-size: 8pt;
+                font-family: "Arial", "sans-serif";
+            }
+            span.MsoCommentReference {
+            }
+            p.MsoTitle,
+            li.MsoTitle,
+            div.MsoTitle {
+                margin: 0cm;
+                tab-stops: 14.2pt;
+                text-autospace: none;
+                font-size: 28pt;
+                font-family: "Calibri", "sans-serif";
+                color: #16b99a;
+                letter-spacing: -0.5pt;
+                font-weight: bold;
+            }
+            p.MsoTitleCxSpFirst,
+            li.MsoTitleCxSpFirst,
+            div.MsoTitleCxSpFirst {
+                margin: 0cm;
+                tab-stops: 14.2pt;
+                text-autospace: none;
+                font-size: 28pt;
+                font-family: "Calibri", "sans-serif";
+                color: #16b99a;
+                letter-spacing: -0.5pt;
+                font-weight: bold;
+            }
+            p.MsoTitleCxSpMiddle,
+            li.MsoTitleCxSpMiddle,
+            div.MsoTitleCxSpMiddle {
+                margin: 0cm;
+                tab-stops: 14.2pt;
+                text-autospace: none;
+                font-size: 28pt;
+                font-family: "Calibri", "sans-serif";
+                color: #16b99a;
+                letter-spacing: -0.5pt;
+                font-weight: bold;
+            }
+            p.MsoTitleCxSpLast,
+            li.MsoTitleCxSpLast,
+            div.MsoTitleCxSpLast {
+                margin: 0cm;
+                tab-stops: 14.2pt;
+                text-autospace: none;
+                font-size: 28pt;
+                font-family: "Calibri", "sans-serif";
+                color: #16b99a;
+                letter-spacing: -0.5pt;
+                font-weight: bold;
+            }
+            a:link,
+            span.MsoHyperlink {
+                color: #0563c1;
+                text-decoration: underline;
+                text-underline: single;
+            }
+            a:visited,
+            span.MsoHyperlinkFollowed {
+                color: #954f72;
+                text-decoration: underline;
+                text-underline: single;
+            }
+            p.MsoCommentSubject,
+            li.MsoCommentSubject,
+            div.MsoCommentSubject {
+                margin: 0cm;
+                tab-stops: 14.2pt;
+                text-autospace: none;
+                font-size: 8pt;
+                font-family: "Arial", "sans-serif";
+                font-weight: bold;
+            }
+            p.MsoAcetate,
+            li.MsoAcetate,
+            div.MsoAcetate {
+                margin: 0cm;
+                tab-stops: 14.2pt;
+                text-autospace: none;
+                font-size: 9pt;
+                font-family: "Segoe UI", "sans-serif";
+            }
+            p.MsoNoSpacing,
+            li.MsoNoSpacing,
+            div.MsoNoSpacing {
+                margin-top: 0cm;
+                margin-right: 0cm;
+                margin-bottom: 0cm;
+                margin-left: 21.3pt;
+                tab-stops: 14.2pt;
+                text-autospace: none;
+                font-size: 8pt;
+                font-family: "Arial", "sans-serif";
+            }
+            p.MsoNoSpacingCxSpFirst,
+            li.MsoNoSpacingCxSpFirst,
+            div.MsoNoSpacingCxSpFirst {
+                margin-top: 0cm;
+                margin-right: 0cm;
+                margin-bottom: 0cm;
+                margin-left: 21.3pt;
+                tab-stops: 14.2pt;
+                text-autospace: none;
+                font-size: 8pt;
+                font-family: "Arial", "sans-serif";
+            }
+            p.MsoNoSpacingCxSpMiddle,
+            li.MsoNoSpacingCxSpMiddle,
+            div.MsoNoSpacingCxSpMiddle {
+                margin-top: 0cm;
+                margin-right: 0cm;
+                margin-bottom: 0cm;
+                margin-left: 21.3pt;
+                tab-stops: 14.2pt;
+                text-autospace: none;
+                font-size: 8pt;
+                font-family: "Arial", "sans-serif";
+            }
+            p.MsoNoSpacingCxSpLast,
+            li.MsoNoSpacingCxSpLast,
+            div.MsoNoSpacingCxSpLast {
+                margin-top: 0cm;
+                margin-right: 0cm;
+                margin-bottom: 0cm;
+                margin-left: 21.3pt;
+                tab-stops: 14.2pt;
+                text-autospace: none;
+                font-size: 8pt;
+                font-family: "Arial", "sans-serif";
+            }
+            p.MsoRMPane,
+            li.MsoRMPane,
+            div.MsoRMPane {
+                margin: 0cm;
+                font-size: 10pt;
+                font-family: "Verdana", "sans-serif";
+            }
+            p.MsoListParagraph,
+            li.MsoListParagraph,
+            div.MsoListParagraph {
+                margin-top: 0cm;
+                margin-right: 0cm;
+                margin-bottom: 0cm;
+                margin-left: 36pt;
+                tab-stops: 14.2pt;
+                text-autospace: none;
+                font-size: 8pt;
+                font-family: "Arial", "sans-serif";
+            }
+            p.MsoListParagraphCxSpFirst,
+            li.MsoListParagraphCxSpFirst,
+            div.MsoListParagraphCxSpFirst {
+                margin-top: 0cm;
+                margin-right: 0cm;
+                margin-bottom: 0cm;
+                margin-left: 36pt;
+                tab-stops: 14.2pt;
+                text-autospace: none;
+                font-size: 8pt;
+                font-family: "Arial", "sans-serif";
+            }
+            p.MsoListParagraphCxSpMiddle,
+            li.MsoListParagraphCxSpMiddle,
+            div.MsoListParagraphCxSpMiddle {
+                margin-top: 0cm;
+                margin-right: 0cm;
+                margin-bottom: 0cm;
+                margin-left: 36pt;
+                font-size: 8pt;
+                font-family: "Arial", "sans-serif";
+            }
+            p.MsoListParagraphCxSpLast,
+            li.MsoListParagraphCxSpLast,
+            div.MsoListParagraphCxSpLast {
+                margin-top: 0cm;
+                margin-right: 0cm;
+                margin-bottom: 0cm;
+                margin-left: 36pt;
+                font-size: 8pt;
+                font-family: "Arial", "sans-serif";
+            }
+            span.TitleChar {
+                font-family: "?? Light", "serif";
+                color: #16b99a;
+                letter-spacing: -0.5pt;
+                font-weight: bold;
+            }
+            span.Heading1Char {
+                font-family: "Tahoma", "sans-serif";
+                color: #16b99a;
+                font-weight: bold;
+            }
+            span.Heading2Char {
+                font-family: "Calibri", "sans-serif";
+                font-weight: bold;
+            }
+            span.Heading3Char {
+                font-family: "Verdana", "sans-serif";
+                font-weight: bold;
+            }
+            span.CommentTextChar {
+                font-family: "Verdana", "sans-serif";
+            }
+            span.CommentSubjectChar {
+                font-family: "Verdana", "sans-serif";
+                font-weight: bold;
+            }
+            span.BalloonTextChar {
+                font-family: "Segoe UI", "sans-serif";
+            }
+            span.HeaderChar {
+                font-family: "Verdana", "sans-serif";
+            }
+            span.FooterChar {
+                font-family: "Verdana", "sans-serif";
+            }
+            p.Multilevel1,
+            li.Multilevel1,
+            div.Multilevel1 {
+                margin-top: 0cm;
+                margin-right: 0cm;
+                margin-bottom: 0cm;
+                margin-left: 36pt;
+                text-indent: -36pt;
+                tab-stops: 14.2pt list 36pt;
+                text-autospace: none;
+                font-size: 11pt;
+                font-family: "Arial", "sans-serif";
+            }
+            p.Multilevel2,
+            li.Multilevel2,
+            div.Multilevel2 {
+                margin-top: 0cm;
+                margin-right: 0cm;
+                margin-bottom: 0cm;
+                margin-left: 71.5pt;
+                text-indent: -36pt;
+                tab-stops: 14.2pt list 71.5pt;
+                text-autospace: none;
+                font-size: 11pt;
+                font-family: "Arial", "sans-serif";
+            }
+            p.Multilevel3,
+            li.Multilevel3,
+            div.Multilevel3 {
+                margin-top: 0cm;
+                margin-right: 0cm;
+                margin-bottom: 0cm;
+                margin-left: 36pt;
+                text-indent: -36pt;
+                tab-stops: 14.2pt list 36pt;
+                text-autospace: none;
+                font-size: 11pt;
+                font-family: "Arial", "sans-serif";
+            }
+            p.Multilevel4,
+            li.Multilevel4,
+            div.Multilevel4 {
+                margin-top: 0cm;
+                margin-right: 0cm;
+                margin-bottom: 0cm;
+                margin-left: 108pt;
+                text-indent: -36pt;
+                tab-stops: 14.2pt list 126pt;
+                text-autospace: none;
+                font-size: 11pt;
+                font-family: "Arial", "sans-serif";
+            }
+            span.Heading4Char {
+                font-family: "Calibri Light", "sans-serif";
+                color: #2e74b5;
+                font-style: italic;
+            }
+            p.NoNum,
+            li.NoNum,
+            div.NoNum {
+                margin: 0cm;
+                tab-stops: 14.2pt 36pt 72pt 108pt 144pt 180pt 216pt;
+                text-autospace: none;
+                font-size: 11pt;
+                font-family: "Arial", "sans-serif";
+            }
+            span.UnresolvedMention {
+                color: #605e5c;
+                background: #e1dfdd;
+            }
+            span.textrun {
+                font-family: "Times New Roman", "serif";
+            }
+            .MsoChpDefault {
+            }
+            .MsoPapDefault {
+                margin-bottom: 8pt;
+                line-height: 107%;
+            }
+            /* Page Definitions */
+            @page {
+                margin: 32pt 36pt 0pt 36pt;
+                font-size: 10px;
+                line-height: 1;
+                font-family: "Roboto", sans-serif;
+                color: #222;
+            }
+            header {
+                position: fixed;
+                top: -70px;
+                left: auto;
+                right: 0px;
+                height: 40px;
+                color: black;
+                text-align: center;
+                line-height: 25px;
+            }
+            @page Section1 {
+                size: 595.3pt 841.9pt;
+                margin: 36pt 36pt 0pt 36pt;
+            }
+            div.Section1 {
+                page: Section1;
+            }
+            @page Section2 {
+                size: 595.3pt 841.9pt;
+                margin: 36pt 36pt 0pt 36pt;
+            }
+            div.Section2 {
+                page: Section2;
+            }
+            @page Section3 {
+                size: 595.3pt 841.9pt;
+                margin: 36pt 36pt 0pt 36pt;
+            }
+            div.Section3 {
+                page: Section3;
+            }
+            @page Section4 {
+                size: 595.3pt 841.9pt;
+                margin: 36pt 36pt 0pt 36pt;
+            }
+            div.Section4 {
+                page: Section4;
+            }
+            ol {
+                margin-bottom: 0cm;
+            }
+            ul {
+                margin-bottom: 0cm;
+            }
+            header table {
+                width: 100%;
+                border-collapse: collapse;
+                border: none;
+            }
+            .annature-anchor {
+                color: #fff;
+            }
+            .text-line-height p{
+                margin-bottom: 4px;
+            }
+        </style>
+    </head>
+    <body lang="EN-IN" link="#0563C1" vlink="#954F72" style="tab-interval: 36pt;">
+        <div class="page" style="height: 740pt;">
+            <div class="Section1">
+                <h1><span lang="EN-NZ">SECTION 1: FUNDING AGREEMENT</span></h1>
+                <hr>
+            </div>
+
+            <p class="MsoNormal"><span lang="EN-NZ" style="font-size: 3pt"><o:p>&nbsp;</o:p></span></p>
+
+            <div class="Section2">
+                <table>
+                    <tr style="mso-yfti-irow: 4;">
+                        <td width="330" valign="top" style="width: 242pt; border: none;">
+                            <p class="MsoNormal">
+                                <span lang="EN-NZ" style="font-size: 7pt;">
+                                    This agreement ("Agreement") has been prepared by Seascape (2010) Limited (trading as FundTap) ("FundTap") and is between the parties described under the heading 'PARTIES' below.
+                                </span>
+                            </p>
+
+                            <p class="MsoNormal"><span lang="EN-NZ" style="font-size: 3pt"><o:p>&nbsp;</o:p></span></p>
+
+                            <p class="MsoNormal">
+                                <span lang="EN-NZ" style="font-size: 7pt;">
+                                    The Agreement sets out the terms and conditions upon which FundTap (at the request of the Customer) agrees to purchase certain accounts receivable from (and advance funding to) the Customer from time to time, in consideration for which the Customer agrees to pay certain fees and charges to, and give certain securities in favour of, and perform certain obligations for the benefit of, FundTap.
+                                </span>
+                            </p>
+
+                            <p class="MsoNormal"><span lang="EN-NZ" style="font-size: 3pt"><o:p>&nbsp;</o:p></span></p>
+
+                            <h1><span lang="EN-NZ">Parties:</span></h1>
+
+                            <p class="MsoNormal"><span lang="EN-NZ" style="font-size: 3pt"><o:p>&nbsp;</o:p></span></p>
+
+                            <p class="MsoNormal">
+                                <span lang="EN-NZ" style="font-size: 7pt;">FUNDTAP: Seascape (2010) Limited (trading as FundTap) ("FundTap") (also referred to as "we" or "us")
+                                </span>
+                            </p>                            
+
+                            <p class="MsoNormal">
+                                <span lang="EN-NZ" style="font-size: 7pt;">Phone: 0800 88 33 55
+                                </span>
+                            </p>
+
+                            <p class="MsoNormal">
+                                <span lang="EN-NZ" style="font-size: 7pt;">
+                                    Email: <span style="font-size: 7pt;">info@fundtap.co</span>
+                                </span>
+                            </p>
+
+                            <p class="MsoNormal"><span lang="EN-NZ" style="font-size: 3pt"><o:p>&nbsp;</o:p></span></p>
+
+                            <p class="MsoNormal">
+                                <span lang="EN-NZ" style="font-size: 7pt;">
+                                    CUSTOMER: <span style="font-size: 7pt;">{{ $customer_name }}</span>
+                                    ("Customer") (also referred to as 'you' or 'your')
+                                </span>
+                            </p>
+
+                            <p class="MsoNormal">
+                                <span lang="EN-NZ" style="font-size: 7pt;">
+                                    Phone: <span style="font-size: 7pt;">{{ $company_phone_no }}</span>
+                                </span>
+                            </p>
+
+                            <p class="MsoNormal">
+                                <span lang="EN-NZ" style="font-size: 7pt;">
+                                    Email: <span style="font-size: 7pt;">{{ $company_email }}</span>
+                                </span>
+                            </p>
+
+                            <p class="MsoNormal"><span lang="EN-NZ" style="font-size: 3pt"><o:p>&nbsp;</o:p></span></p>
+
+                            <p class="MsoNormal">
+                                <span lang="EN-NZ" style="font-size: 7pt;">
+                                    GUARANTOR: <span style="font-size: 7pt;">{{ $acc_name }}</span>
+                                    ("Guarantor")
+                                </span>
+                            </p>                            
+
+                            <p class="MsoNormal">
+                                <span lang="EN-NZ" style="font-size: 7pt;">
+                                    Phone: <span style="font-size: 7pt;">{{ $acc_phone_no }}</span>
+                                </span>
+                            </p>
+
+                            <p class="MsoNormal">
+                                <span lang="EN-NZ" style="font-size: 7pt;">
+                                    Email: <span style="font-size: 7pt;">{{ $acc_email }}</span>
+                                </span>
+                            </p>
+
+                            <p class="MsoNormal"><span lang="EN-NZ" style="font-size: 3pt"><o:p>&nbsp;</o:p></span></p>
+
+                            <p class="MsoNormal">
+                                <b>
+                                    <span lang="EN-NZ" style="font-size: 7pt;">
+                                        IMPORTANT - PLEASE READ THE ENTIRE AGREEMENT BEFORE SIGNING BELOW AND RETURNING A SIGNED COPY OF THE AGREEMENT TO FUNDTAP
+                                    </span>
+                                </b>
+                            </p>
+
+                            <p class="MsoNormal"><span lang="EN-NZ" style="font-size: 3pt"><o:p>&nbsp;</o:p></span></p>
+
+                            <p class="MsoNormal">
+                                <span lang="EN-NZ" style="font-size: 7pt;">
+                                    By signing the Agreement, you acknowledge, agree and undertake to FundTap that:
+                                </span>
+                            </p>
+
+                            <p class="MsoNormal"><span lang="EN-NZ" style="font-size: 3pt"><o:p>&nbsp;</o:p></span></p>
+
+                            <p class="MsoListParagraphCxSpFirst" style="margin-left: 0cm; mso-add-space: auto; text-indent: 0cm; mso-list: l1 level1 lfo20;">
+                                <span lang="EN-NZ" style="font-size: 7pt; mso-fareast-font-family: Arial; mso-fareast-theme-font: minor-bidi;">
+                                    <span style="mso-list: Ignore;">
+                                        <b>1.&nbsp;&nbsp;Payment: </b> You will become liable to, and must, pay in full to FundTap all amounts due and payable by you to FundTap, and all other fees and expenses
+                                    </span>
+                                </span>
+                            </p>
+                            <p class="MsoNormal"><span lang="EN-NZ" style="font-size: 3pt"><o:p>&nbsp;</o:p></span></p>
+                        </td>
+                        <td width="38" valign="top" style="width: 20pt; padding: 0cm 5.4pt 0cm 5.4pt;"></td>
+                        <td width="329" valign="top" style="width: 242pt; border: none;">
+                            <p class="MsoListParagraphCxSpFirst" style="margin-left: 0cm; mso-add-space: auto; text-indent: 0cm; mso-list: l1 level1 lfo20;">
+                                <span lang="EN-NZ" style="font-size: 7pt; mso-fareast-font-family: Arial; mso-fareast-theme-font: minor-bidi;">
+                                    <span style="mso-list: Ignore;">
+                                        which may become due and payable by you to FundTap, in accordance with the terms and conditions set out in the Agreement.
+                                    </span>
+                                </span>
+                            </p>
+
+                            <p class="MsoNormal"><span lang="EN-NZ" style="font-size: 3pt"><o:p>&nbsp;</o:p></span></p>
+
+                            <p class="MsoListParagraphCxSpFirst" style="margin-left: 0cm; mso-add-space: auto; text-indent: 0cm; mso-list: l1 level1 lfo20;">
+                                <span lang="EN-NZ" style="font-size: 7pt; mso-fareast-font-family: Arial; mso-fareast-theme-font: minor-bidi;">
+                                    <span style="mso-list: Ignore;">
+                                        <b>2.&nbsp;&nbsp;Compliance: </b> You will perform all of the obligations that apply to you, and comply with all the terms and conditions, that are set out in the Agreement and you will comply with all terms and conditions that may be implied by law.
+                                    </span>
+                                </span>
+                            </p>
+
+                            <p class="MsoNormal"><span lang="EN-NZ" style="font-size: 3pt"><o:p>&nbsp;</o:p></span></p>
+
+                            <p class="MsoListParagraphCxSpFirst" style="margin-left: 0cm; mso-add-space: auto; text-indent: 0cm; mso-list: l1 level1 lfo20;">
+                                <span lang="EN-NZ" style="font-size: 7pt; mso-fareast-font-family: Arial; mso-fareast-theme-font: minor-bidi;">
+                                    <span style="mso-list: Ignore;">
+                                        <b>3.&nbsp;&nbsp;Guarantee: </b> If there are any Guarantors, the obligations outlined in paragraphs 1 and 2 above apply to each of those Guarantors as if they were the Customer (i.e. as sole and primary obligor). As a Guarantor, they will be required to do everything that the Customer must do if the Customer fails to do so. Each Guarantor provides the relevant Guarantee on the assumption that it may be called upon to fulfil these obligations in the event of the Customer's default.
+                                    </span>
+                                </span>
+                            </p>
+
+                            <p class="MsoNormal"><span lang="EN-NZ" style="font-size: 3pt"><o:p>&nbsp;</o:p></span></p>
+
+                            <p class="MsoListParagraphCxSpFirst" style="margin-left: 0cm; mso-add-space: auto; text-indent: 0cm; mso-list: l1 level1 lfo20;">
+                                <span lang="EN-NZ" style="font-size: 7pt; mso-fareast-font-family: Arial; mso-fareast-theme-font: minor-bidi;">
+                                    <span style="mso-list: Ignore;">
+                                        <b>4.&nbsp;&nbsp;Independent legal advice: </b> You have been advised to obtain independent legal advice as to your rights and obligations under the Agreement before signing the Agreement, have had the opportunity to take independent legal advice on the legal effect of this Agreement and have either taken such advice and decided to enter into this Agreement or have elected to waive the opportunity to take legal advice and have decided to enter into this Agreement in any event.
+                                    </span>
+                                </span>
+                            </p>
+
+                            <p class="MsoNormal"><span lang="EN-NZ" style="font-size: 3pt"><o:p>&nbsp;</o:p></span></p>
+
+                            <p class="MsoListParagraphCxSpFirst" style="margin-left: 0cm; mso-add-space: auto; text-indent: 0cm; mso-list: l1 level1 lfo20;">
+                                <span lang="EN-NZ" style="font-size: 7pt; mso-fareast-font-family: Arial; mso-fareast-theme-font: minor-bidi;">
+                                    <span style="mso-list: Ignore;">
+                                        <b>5.&nbsp;&nbsp;Understanding: </b> You have received and read a copy of the Agreement, you understand the full nature and effect of the Agreement, you have had sufficient time to consider whether to sign the Agreement, you have not been pressured or coerced to sign the Agreement by any person and you are signing the Agreement relying on your own judgement and that of your legal advisors (if such
+                                        advice, which is encouraged) has been obtained.
+                                    </span>
+                                </span>
+                            </p>
+
+                            <p class="MsoNormal"><span lang="EN-NZ" style="font-size: 3pt"><o:p>&nbsp;</o:p></span></p>
+
+                            <p class="MsoListParagraphCxSpFirst" style="margin-left: 0cm; mso-add-space: auto; text-indent: 0cm; mso-list: l1 level1 lfo20;">
+                                <span lang="EN-NZ" style="font-size: 7pt; mso-fareast-font-family: Arial; mso-fareast-theme-font: minor-bidi;">
+                                    <span style="mso-list: Ignore;">
+                                        <b>6.&nbsp;&nbsp;Default: </b> Any money we receive from your payments may be applied by us to any payments or amounts that are due. This means that payments may be applied, for example, to default fees or interest owing and may not reduce the principal balance of the total amount of funds advanced to you under the Agreement.
+                                    </span>
+                                </span>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <div class="Section3">
+                <h1>
+                    <span lang="EN-NZ">Execution: </span>
+                    <span lang="EN-NZ" style="font-size: 8pt; color: windowtext; font-weight: normal; mso-bidi-font-weight: bold;">
+                        Dated {{ $dated }}
+                    </span>
+                </h1>
+
+                <p class="MsoNormal"><span lang="EN-NZ" style="font-size: 3pt"><o:p>&nbsp;</o:p></span></p>
+
+                <table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
+                    <tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes;">
+                        <td valign="top" style="width: 235pt; padding: 0.5pt 5.4pt 0cm 0pt;">
+                            <p class="MsoNormal">
+                                <span lang="EN-NZ" style="font-weight: 600;">Signed as a deed by the Customer:</span>
+                                <span class="annature-anchor">@{{signatureOne}}</span>
+                            </p>
+                        </td>
+
+                        <td valign="top" style="width: 20pt; padding: 0cm 5.4pt 0cm 5.4pt;"></td>
+
+                        <td valign="top" style="width: 235pt; padding: 0.5pt 5.4pt 0cm 0pt;">
+                            <p class="MsoNormal">
+                                <span lang="EN-NZ" style="font-weight: 600;">Signed as a deed by Guarantor: </span>
+                                <span class="annature-anchor">@{{signatureTwo}}</span>
+                            </p>
+                        </td>
+                    </tr>
+
+                    <tr style="mso-yfti-irow: 1;">
+                        <td valign="top" style="width: 235pt; border: none; border-bottom: solid windowtext 1pt; mso-border-bottom-alt: solid windowtext 0.5pt; padding: 2pt 5.4pt 9pt 5.4pt;">
+                            <p>
+                                <span lang="EN-NZ" style="font-size: 10pt; font-family: Segoe UI Symbol; color: #16b99a;">&nbsp;</span>
+                            </p>
+                        </td>
+                        <td valign="top" style="width: 20pt; padding: 0cm 5.4pt 0cm 5.4pt;">
+                            <p class="MsoNormal">
+                                <span lang="EN-NZ" style="font-size: 8.5pt;">&nbsp;</span>
+                            </p>
+                        </td>
+                        <td valign="top" style="width: 235pt; border: none; border-bottom: solid windowtext 1pt; mso-border-bottom-alt: solid windowtext 0.5pt; padding: 2pt 5.4pt 9pt 5.4pt;">
+                            <p>
+                                <span lang="EN-NZ" style="font-size: 10pt; font-family: Segoe UI Symbol; color: #16b99a;">&nbsp;</span>
+                            </p>
+                        </td>
+                    </tr>
+
+                    <tr style="mso-yfti-irow: 2;">
+                        <td valign="top" style="width: 235pt; border: none; mso-border-top-alt: solid windowtext 0.5pt; padding: 1.5pt 5.4pt 0cm 5.4pt;">
+                            <p class="MsoNormal" style="text-align: left;">
+                                <span lang="EN-NZ">Signed by <span>{{ $user_name }}</span>, duly authorised and on behalf of {{ $customer_name }}</span>
+                            </p>
+                        </td>
+                        <td valign="top" style="width: 20pt; padding: 0cm 5.4pt 0cm 5.4pt;"></td>
+                        <td valign="top" style="width: 235pt; border: none; mso-border-top-alt: solid windowtext 0.5pt; padding: 1.5pt 5.4pt 0cm 5.4pt;">
+                            <p class="MsoNormal" style="text-align: left;">
+                                <span lang="EN-NZ">Signed by GUARANTOR, <span>{{ $acc_name }}</span></span>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+                <table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none; margin-top: 25px;">
+                    <tr style="mso-yfti-irow: 4;">
+                        <td valign="top" style="width: 235pt; border: none; border-bottom: solid windowtext 1pt; mso-border-bottom-alt: solid windowtext 0.5pt; padding: 0cm 5.4pt 0cm 5.4pt;">
+                            <p style="margin-top: 5pt; margin-bottom: 5pt; font-size: 8pt;">
+                                <span lang="EN-NZ" style="font-size: 10pt; font-family: Segoe UI Symbol; color: #16b99a;">&nbsp;</span>
+                            </p>
+                        </td>
+
+                        <td valign="top" style="width: 20pt; padding: 0cm 5.4pt 0cm 5.4pt;">
+                            <p class="MsoNormal" style="margin-top: 5pt; margin-bottom: 5pt; font-size: 8pt;">
+                                <span lang="EN-NZ" style="font-size: 8.5pt;">&nbsp;</span>
+                            </p>
+                        </td>
+
+                        <td valign="top" style="width: 235pt; border: none; border-bottom: solid windowtext 1pt; mso-border-bottom-alt: solid windowtext 0.5pt; padding: 0cm 5.4pt 0cm 5.4pt;">
+                            <p style="margin-top: 5pt; margin-bottom: 5pt; font-size: 8pt;">
+                                <span lang="EN-NZ" style="font-size: 10pt; font-family: Segoe UI Symbol; color: #16b99a;">&nbsp;</span>
+                            </p>
+                        </td>
+                    </tr>
+
+                     <tr style="mso-yfti-irow: 5;">
+                        <td valign="top" style="width: 235pt; border: none; mso-border-top-alt: solid windowtext 0.5pt; padding: 1.5pt 5.4pt 5pt 5.4pt;">
+                            <p class="MsoNormal">
+                                <span lang="EN-NZ">Signature of Witness</span>
+                                <span class="annature-anchor">@{{signatureOfWitness}}</span>
+                            </p>
+                        </td>
+
+                        <td valign="top" style="width: 20pt; padding: 0cm 5.4pt 5pt 5.4pt;"></td>
+
+                        <td valign="top" style="width: 235pt; border: none; mso-border-top-alt: solid windowtext 0.5pt; padding: 1.5pt 5.4pt 5pt 5.4pt;">
+                            <p class="MsoNormal">
+                                <span lang="EN-NZ">Signature of Witness</span>
+                                <span class="annature-anchor">@{{signatureOfWitness}}</span>
+                            </p>
+                        </td>
+                    </tr> 
+
+                    <tr style="mso-yfti-irow: 6;">
+                        <td valign="top" style="width: 235pt; border: none; border-bottom: solid windowtext 1pt; mso-border-bottom-alt: solid windowtext 0.5pt; padding: 0cm 5.4pt 0cm 5.4pt;">
+                            <p style="margin-top: 5pt; margin-bottom: 5pt; font-size: 8pt;">
+                                <span lang="EN-NZ" style="font-size: 8pt; font-family: Segoe UI Symbol; color: #16b99a;">&nbsp;</span>
+                            </p>
+                        </td>
+                        <td valign="top" style="width: 20pt; padding: 0cm 5.4pt 0cm 5.4pt;">
+                            <p class="MsoNormal" style="margin-top: 7pt; margin-bottom: 7pt;">
+                                <span lang="EN-NZ" style="font-size: 8pt;">&nbsp;</span>
+                            </p>
+                        </td>
+                        <td valign="top" style="width: 235pt; border: none; border-bottom: solid windowtext 1pt; mso-border-bottom-alt: solid windowtext 0.5pt; padding: 0cm 5.4pt 0cm 5.4pt;">
+                            <p style="margin-top: 5pt; margin-bottom: 5pt; font-size: 8pt;">
+                                <span lang="EN-NZ" style="font-size: 8pt; font-family: Segoe UI Symbol; color: #16b99a;">&nbsp;</span>
+                            </p>
+                        </td>
+                    </tr>
+
+                    <tr style="mso-yfti-irow: 7;">
+                        <td valign="top" style="width: 235pt; border: none; mso-border-top-alt: solid windowtext 0.5pt; padding: 1.5pt 5.4pt 5pt 5.4pt;">
+                            <p class="MsoNormal"><span lang="EN-NZ">Full Name of Witness</span>
+                            <span class="annature-anchor">@{{fullNameOfWitness}}</span></p>
+                        </td>
+                        <td valign="top" style="width: 20pt; padding: 0cm 5.4pt 5pt 5.4pt;"></td>
+                        <td valign="top" style="width: 235pt; border: none; mso-border-top-alt: solid windowtext 0.5pt; padding: 1.5pt 5.4pt 5pt 5.4pt;">
+                            <p class="MsoNormal">
+                                <span lang="EN-NZ">Full Name of Witness</span>
+                                <span class="annature-anchor">@{{fullNameOfWitness}}</span>
+                            </p>
+                        </td>
+                    </tr>
+
+                    <tr style="mso-yfti-irow: 8;">
+                        <td valign="top" style="width: 235pt; border: none; border-bottom: solid windowtext 1pt; mso-border-bottom-alt: solid windowtext 0.5pt; padding: 0cm 5.4pt 0cm 5.4pt;">
+                            <p style="margin-top: 5pt; margin-bottom: 5pt; font-size: 8pt;">
+                                <span lang="EN-NZ" style="font-size: 8pt; font-family: Segoe UI Symbol; color: #16b99a;">&nbsp;</span>
+                            </p>
+                        </td>
+                        <td valign="top" style="width: 20pt; padding: 0cm 5.4pt 0cm 5.4pt;">
+                            <p class="MsoNormal" style="margin-top: 5pt; margin-bottom: 5pt; font-size: 8pt;"><span lang="EN-NZ" style="font-size: 8pt;">&nbsp;</span></p>
+                        </td>
+                        <td valign="top" style="width: 235pt; border: none; border-bottom: solid windowtext 1pt; mso-border-bottom-alt: solid windowtext 0.5pt; padding: 0cm 5.4pt 0cm 5.4pt;">
+                            <p style="margin-top: 5pt; margin-bottom: 5pt; font-size: 8pt;">
+                                <span lang="EN-NZ" style="font-size: 8pt; font-family: Segoe UI Symbol; color: #16b99a;">&nbsp;</span>
+                            </p>
+                        </td>
+                    </tr>
+
+                    <tr style="mso-yfti-irow: 9;">
+                        <td valign="top" style="width: 235pt; border: none; mso-border-top-alt: solid windowtext 0.5pt; padding: 1.5pt 5.4pt 5pt 5.4pt;">
+                            <p class="MsoNormal" style="text-align: left;">
+                                <span lang="EN-NZ">Occupation of Witness</span>
+                                <span class="annature-anchor">@{{occupationOfWitness}}</span>
+                            </p>
+                        </td>
+                        <td valign="top" style="width: 20pt; padding: 0cm 5.4pt 5pt 5.4pt;"></td>
+                        <td valign="top" style="width: 235pt; border: none; mso-border-top-alt: solid windowtext 0.5pt; padding: 1.5pt 5.4pt 5pt 5.4pt;">
+                            <p class="MsoNormal" style="text-align: left;">
+                                <span lang="EN-NZ">Occupation of Witness</span>
+                                <span class="annature-anchor">@{{occupationOfWitness}}</span>
+                            </p>
+                        </td>
+                    </tr>
+
+                    <tr style="mso-yfti-irow: 10;">
+                        <td valign="top" style="width: 235pt; border: none; border-bottom: solid windowtext 1pt; mso-border-bottom-alt: solid windowtext 0.5pt; padding: 0cm 5.4pt 0cm 5.4pt;">
+                            <p style="margin-top: 5pt; margin-bottom: 5pt; font-size: 8pt;">
+                                <span lang="EN-NZ" style="font-size: 8pt; font-family: Segoe UI Symbol; color: #16b99a;">&nbsp;</span>
+                            </p>
+                        </td>
+                        <td valign="top" style="width: 20pt; padding: 0cm 5.4pt 0cm 5.4pt;">
+                            <p class="MsoNormal" style="margin-top: 5pt; margin-bottom: 5pt; font-size: 8pt;"><span lang="EN-NZ" style="font-size: 8pt;">&nbsp;</span></p>
+                        </td>
+                        <td valign="top" style="width: 235pt; border: none; border-bottom: solid windowtext 1pt; mso-border-bottom-alt: solid windowtext 0.5pt; padding: 0cm 5.4pt 0cm 5.4pt;">
+                            <p style="margin-top: 5pt; margin-bottom: 5pt; font-size: 8pt;">
+                                <span lang="EN-NZ" style="font-size: 8pt; font-family: Segoe UI Symbol; color: #16b99a;">&nbsp;</span>
+                            </p>
+                        </td>
+                    </tr>
+
+                    <tr style="mso-yfti-irow: 11; mso-yfti-lastrow: yes;">
+                        <td valign="top" style="width: 235pt; border: none; mso-border-top-alt: solid windowtext 0.5pt; padding: 1.5pt 5.4pt 0cm 5.4pt;">
+                            <p class="MsoNormal">
+                                <span lang="EN-NZ">Address of Witness</span>
+                                <span class="annature-anchor">@{{addressOfWitness}}</span>
+                            </p>
+                        </td>
+
+                        <td valign="top" style="width: 20pt; padding: 0cm 5.4pt 0cm 5.4pt;"></td>
+
+                        <td valign="top" style="width: 235pt; border: none; mso-border-top-alt: solid windowtext 0.5pt; padding: 1.5pt 5.4pt 0cm 5.4pt;">
+                            <p class="MsoNormal">
+                                <span lang="EN-NZ">Address of Witness</span>
+                                <span class="annature-anchor">@{{addressOfWitness}}</span>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+
+        <table style="height: 50px; text-align: center; line-height: 35px; width: 522pt; margin-top: 10pt;">
+            <tr>
+                <td style="text-align: left;">
+                    <img src="{{ public_path('tc_v4_logo.png') }}" height="45px" /><br />
+                    <span style="display: inline-block; margin-top: -13pt; margin-left: 8pt; font-size: 8pt;">Version_{{config("fundtap.agreement_version.agreement_file_version")}}_AU</span>
+                </td>
+                <td style="text-align: right;"><span class="page-number">Page 1</span> of 12</td>
+            </tr>
+        </table>
+
+        <div class="page text-line-height" style="height: 740pt;">
+            <h1><span lang="EN-NZ">SECTION 2: TERMS AND CONDITIONS</span></h1>
+            <hr>
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ">FundTap agrees to Purchase certain Accounts Receivable from you the Customer in accordance with, and subject to, the Terms and Conditions. </span>
+            </p>
+
+            <h1 style="padding-top: 5pt;"><span lang="EN-NZ">Definitions</span></h1>
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ">In the Terms and Conditions, the following definitions apply unless the context otherwise requires:</span>
+            </p>
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ"> <b style="mso-bidi-font-weight: normal;">"Account"</b> means the account created by the Customer with FundTap pursuant to clause 2. </span>
+            </p>
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ"> <b style="mso-bidi-font-weight: normal;">"Accounting Software"</b> means the accounting software used by the Customer to manage the Customer's business accounts. </span>
+            </p>
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ">
+                    <b style="mso-bidi-font-weight: normal;">"Account/s Receivable"</b> is a written obligation which evidences a debt owing to you from your Debtor which may include an account, invoice, contract, statement or any other written form of receivable and includes any security granted by the Debtor to you in relation to, or in connection with, such debt and all Related Rights.
+                </span>
+            </p>
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ"> <b style="mso-bidi-font-weight: normal;">"Advance"</b> means the amount payable to the Customer by FundTap for an Account Receivable. </span>
+            </p>
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ">
+                    <b style="mso-bidi-font-weight: normal;">"Agreement"</b> means this agreement which comprises: (a) the Funding Agreement; (b) the Terms and Conditions; (c) the Direct Debit Authority; (d) the Direct Debit Terms and Conditions; and (e) each Guarantee; and (f) the Power of Attorney.
+                </span>
+            </p>
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ">
+                    <b style="mso-bidi-font-weight: normal;">"AML/CTF Act"</b> means the Anti-Money Laundering and Counter-Terrorism Act 2006 (Cth) (and associated subordinate legislation) as amended from time to time.
+                </span>
+            </p>
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ"> <b style="mso-bidi-font-weight: normal;">"Bank"</b> means, for the purposes of the Direct Debit Authority and the Direct Debit Terms and Conditions, the Customer's bank. </span>
+            </p>
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ"> <b style="mso-bidi-font-weight: normal;">"Business Day"</b> means any day (other than a Saturday, Sunday or public holiday) on which registered banks are open for general business in Australia. </span>
+            </p>
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ">
+                    <b style="mso-bidi-font-weight: normal;">"Confidential Information"</b> means all information in whatever form relating to us or any other customer (including a previous customer) of FundTap which is disclosed or made available to a customer of the FundTap System (including to any of their employees, representatives or advisers) by us or over the FundTap System, including: (i) the Terms and Conditions, (ii) any information that would be regarded as confidential by a reasonable business person relating to the business, affairs, debtors, clients or suppliers of a customer of FundTap, and (iii) any information or analysis derived from Confidential Information; but not including any information that (iv) is or becomes generally available to the public other than as a result of a disclosure in breach of the Terms and Conditions, (v) was available to or lawfully in the possession of the Customer prior to any disclosure by us or over the FundTap System, and includes Customer Transaction Data.
+                </span>
+            </p>
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ">
+                    <b style="mso-bidi-font-weight: normal;">"Customer"</b>, <b style="mso-bidi-font-weight: normal;">"you"</b>, <b style="mso-bidi-font-weight: normal;">"your"</b> means any person, partnership, company and/or other legal entity which has agreed to be bound to the Terms and Conditions and includes such person's successors, executors, administrators and permitted assigns.
+                </span>
+            </p>
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ">
+                    <b style="mso-bidi-font-weight: normal;">"Customer Transaction Data"</b> means data and other information compiled by us relating to transactions by the Customer in Purchased Debts as well as with its Debtors.
+                </span>
+            </p>
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ"> <b style="mso-bidi-font-weight: normal;">"Debtor"</b> is the Entity who is liable for the Account Receivable. </span>
+            </p>
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ">
+                    <b style="mso-bidi-font-weight: normal;">"Defaulted Debt"</b> means an Account Receivable (i) payable by a Debtor who the Customer knows or ought to know is Insolvent, or who disputes or is likely to dispute its liability to pay or pay the Debt by the Due Date, or (ii) which should reasonably be considered as uncollectible, or (iii) is not paid within 45 days after the Due Date.
+                </span>
+            </p>
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ">
+                    <b style="mso-bidi-font-weight: normal;">"Delivered"</b> means in relation to Goods: (i) physical delivery to (or to the order of) a Debtor; (ii) the Debtor taking the risk in the Goods; or (iii) complete performance of the Supply Contract ("deliver" and "delivery" are to be similarly construed).
+                </span>
+            </p>
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ">
+                    <b style="mso-bidi-font-weight: normal;">"Direct Debit"</b> means, for the purposes of the Direct Debit Authority and the Direct Debit Terms and Conditions, the amount of each deduction from the Customer's bank account by FundTap under the Agreement pursuant to the Direct Debit Authority.
+                </span>
+            </p>
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ"> <b style="mso-bidi-font-weight: normal;">"Direct Debit Authority"</b> means a direct debit authority granted by you to us. </span>
+            </p>
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ"> <b style="mso-bidi-font-weight: normal;">"Direct Debit Terms and Conditions"</b> means the relevant Bank's terms and conditions that apply to the Direct Debit Authority. </span>
+            </p>
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ">
+                    <b style="mso-bidi-font-weight: normal;">"Due Date"</b> means the due date of the Account Receivable at the time the Account Receivable is presented to FundTap for Purchase as set out under clause 3 of the Terms and Conditions.
+                </span>
+            </p>
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ">
+                    <b style="mso-bidi-font-weight: normal;">"Entity/ies"</b> includes a natural person, company, firm, partnership, joint venture, society, unincorporated body, organisation or other group or association of entities (whether incorporated or not) and a trust (in each case whether or not having separate legal personality).
+                </span>
+            </p>
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ"> <b style="mso-bidi-font-weight: normal;">"Event of Default"</b> has the meaning given to it in clause 11. </span>
+            </p>
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ"> <b style="mso-bidi-font-weight: normal;">"Funding Agreement"</b> means Section 1 of the Agreement. </span>
+            </p>
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ"> <b style="mso-bidi-font-weight: normal;">"Funding Notice"</b> means the agreement between the Customer and FundTap detailing terms of each Purchase. </span>
+            </p>
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ"> <b style="mso-bidi-font-weight: normal;">"FundTap Fees"</b> means all fees, charges and expenses as set out in clause 6 of the Terms and Conditions. </span>
+            </p>
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ">
+                    <b style="mso-bidi-font-weight: normal;">"FundTap System"</b> means the Website, its subsites, related databases and supporting software operated by us, but excluding equipment, software and telecommunications configurations or links belonging to the Customer or any third party.
+                </span>
+            </p>
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ">
+                    <b style="mso-bidi-font-weight: normal;">"Goods"</b> in relation to a Purchased Debt, means the property sold, or which should have been sold, by you to the Debtor, the sale of which gave rise to, or should have given rise to, the Account Receivable.
+                </span>
+            </p>
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ">
+                    <b style="mso-bidi-font-weight: normal;">"Gross Amount of Account Receivable"</b> and <b style="mso-bidi-font-weight: normal;">"Gross Amount"</b> is the total amount payable by your Debtor for a relevant Account Receivable, including, without limitation, the amount charged for the product or service and any related charges such as freight, handling and taxes.
+                </span>
+            </p>
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ">
+                    <b style="mso-bidi-font-weight: normal;">"Guarantee"</b> means each guarantee given by a Guarantor in favour of FundTap as credit support for the Customer's obligations to FundTap pursuant to this Agreement., including any guarantee given through Section 3
+                </span>
+            </p>
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ"> <b style="mso-bidi-font-weight: normal;">"Guarantor/s"</b> means such person or entity who provides a Guarantee. </span>
+            </p>
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ">
+                    <b style="mso-bidi-font-weight: normal;">"Insolvent"</b> relates to the Customer or Debtor if (i) the customer or Debtor is unable or is deemed unable to pay its debts or is insolvent, (ii) the Customer or Debtor ceases to trade or we have reason to believe in our absolute discretion it has ceased to trade, (iii) any step taken with a view to it entering into any insolvency process or arrangement, (iv) an administrator, receiver, liquidator or trustee in bankruptcy is appointed over it or its assets, (v) it is insolvent within the meaning of the Insolvency Act 2006.
+                </span>
+            </p>
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ"> <b style="mso-bidi-font-weight: normal;">"Late Fee"</b> means the late fee payable by the Customer to FundTap as set out on the "Quote" screen of the Website. </span>
+            </p>
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ">
+                    <b style="mso-bidi-font-weight: normal;">"Other Property"</b> means the Customer's Real Property and all of its other present and after-acquired property that is not Personal Property; <b>"Personal Property"</b> means all of the Customer’s present and after-acquired personal property (with ‘personal property’ having the term given in the PPSA).
+                </span>
+            </p>
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ"> <b style="mso-bidi-font-weight: normal;">"Power of Attorney"</b> means the power of attorney given by the Customer in favour of FundTap in accordance with clause 14 of this Agreement. </span>
+            </p>
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ"> <b style="mso-bidi-font-weight: normal;">"PPSA"</b> means the Personal Property Securities Act 2009 (Cth) (and associated subordinate legislation) as amended from time to time. </span>
+            </p>
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ"> <b style="mso-bidi-font-weight: normal;">"PPSR"</b> means the Personal Property Securities Register. </span>
+            </p>
+            
+            <p class="MsoNormal">
+                <span lang="EN-NZ"> <b style="mso-bidi-font-weight: normal;">"Privacy Policy"</b> means FundTap's privacy policy, as updated from time to time, and available on the Website. </span>
+            </p>
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ">
+                    <b style="mso-bidi-font-weight: normal;">"Purchase"</b> means FundTap acquiring the entire legal and beneficial interest in the Account Receivable submitted for sale to FundTap by the Customer using the FundTap System, as outlined in clause 3.
+                </span>
+            </p>
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ"> <b style="mso-bidi-font-weight: normal;">"Purchased Debt"</b> is an Accounts Receivable that FundTap agrees to purchase from you, in accordance with the Terms and Conditions. </span>
+            </p>
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ">
+                    <b style="mso-bidi-font-weight: normal;">"Quote"</b> means any quotation or estimate provided by FundTap to the Customer, pursuant to clause 2.1(2), in respect of the acquisition by FundTap of an Account Receivable from the Customer and is subject to change (as more particularly described in clause 2.2).
+                </span>
+            </p>
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ">
+                    <b style="mso-bidi-font-weight: normal;">"Real Property"</b> means all of that Customer's present and after-acquired freehold and leasehold land, all estates and interests in land and all buildings, structures and fixtures (including trade fixtures) for the time being on that land.
+                </span>
+            </p>
+
+        </div>
+
+        <table style="height: 50px; text-align: center; line-height: 35px; width: 522pt;">
+            <tr>
+                <td style="text-align: left;">
+                    <img src="{{ public_path('tc_v4_logo.png') }}" height="45px" /><br />
+                    <span style="display: inline-block; margin-top: -13pt; margin-left: 8pt; font-size: 8pt;">Version_{{config("fundtap.agreement_version.agreement_file_version")}}_AU</span>
+                </td>
+                <td style="text-align: right;">
+                    <span lang="EN-NZ" style="font-weight: 700; font-size: 14pt; font-family: 'Calibri', 'sans-serif'; color: black;">Initial here:____</span><span class="annature-anchor">@{{initialSignature}}</span><br />
+                    <span class="page-number">Page 2</span> of 12
+                </td>
+            </tr>
+        </table>
+
+        <div class="page text-line-height" style="height: 740pt;">
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ">
+                    <b style="mso-bidi-font-weight: normal;">"Related Rights"</b> means (i) all the Customer's rights under the Supply Contract; (ii) all remittances, instruments, security, bonds, guarantees and indemnities relating to an Account Receivable; (iii) all documents, ledgers, databases and computer files (including operating systems) recording or evidencing performance of a Supply Contract; (iv) all Goods returned to or repossessed by the Customer or rejected by a Debtor and all documents of title to such Goods; (v) any credit insurance in respect of an Account Receivable.
+                </span>
+            </p>
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ"> <b style="mso-bidi-font-weight: normal;">"Securities"</b> means the securities securing the Customer's obligations under the Agreement. </span>
+            </p>
+            <p class="MsoNormal">
+                <span lang="EN-NZ">
+                    <b style="mso-bidi-font-weight: normal;">"Secured Property"</b> means any Personal Property or Other Property or over which a Security Interest is created and/or a mortgage is granted (as applicable) by the Customer under the Agreement, as security in respect of the Customer's payment and performance obligations.
+                </span>
+            </p>
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ"> <b style="mso-bidi-font-weight: normal;">"Security Interest"</b> means: </span>
+            </p>
+
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 15pt; mso-add-space: auto; tab-stops: 36pt;">
+                (a) in relation to Real Property, an interest in Real Property under a caveat and / or mortgage and includes any unregistered charge on any Real Property and any interest in any Real Property granted or created for securing money or payment or performance of an obligation;
+            </p>
+
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 15pt; mso-add-space: auto; tab-stops: 36pt;">
+                (b) in relation to Personal Property, has the meaning set out in section 10 of the PPSA; and
+            </p>
+
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 15pt; mso-add-space: auto; tab-stops: 36pt;">
+                (c) in relation to Other Property, an interest in that property that has been created for the purpose of securing money or obligations.
+            </p>
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ">
+                    <b style="mso-bidi-font-weight: normal;">"Services"</b> in relation to a Purchased Debt, means the services performed or work done, or which should have been performed or done, by you for the Debtor, the performance of which gave rise to, or should have given rise to, the Account Receivable. It can include, without limitation, the leasing or hiring of property by you.
+                </span>
+            </p>
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ">
+                    <b style="mso-bidi-font-weight: normal;">"Supply Contract"</b> in relation to a Purchased Debt, means the contract for the supply of Goods and/or Services between the Customer and the Debtor pursuant to which the Account Receivable arises.
+                </span>
+            </p>
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ"> <b style="mso-bidi-font-weight: normal;">"Terms and Conditions"</b> means the terms and conditions as defined in Section 2 of the Agreement. </span>
+            </p>
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ"> <b style="mso-bidi-font-weight: normal;">"Termination Event"</b> means all events described in clause 17.2. </span>
+            </p>
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ"> <b style="mso-bidi-font-weight: normal;">"Transaction Fee"</b> means the transaction fee payable by the Customer to FundTap as set out on the "Quote" screen of the Website. </span>
+            </p>
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ">
+                    <b style="mso-bidi-font-weight: normal;">"Website"</b> means the FundTap website at https://www.fundtap.co and any other Internet-based interface FundTap provides across any medium and on any platform that utilises the Internet including, without limitation, any mobile application.
+                </span>
+            </p>
+
+            <h1 style="padding-top: 5pt;">
+                <span style="color: #000000;">1.</span>
+                <span lang="EN-NZ">Interpretation</span>
+            </h1>
+
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">1.1.&nbsp;&nbsp;In the Terms and Conditions:</span>
+            </p>
+
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 20.3pt; tab-stops: 20.3pt;">
+                a)&nbsp;&nbsp;references to any part of the Terms and Conditions will be construed as references to that part in force for the time being and as amended, varied or novated from time to time;
+            </p>
+
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 20.3pt; tab-stops: 20.3pt;">
+                b)&nbsp;&nbsp;references to sections, clauses and paragraphs are to sections, clauses and paragraphs of the Agreement (unless expressed otherwise);
+            </p>
+
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 20.3pt; tab-stops: 20.3pt;">
+                c)&nbsp;&nbsp;a discretion which we may exercise (an act or decision that we may do or decide), may be exercised in our sole discretion and without giving any reason;
+            </p>
+
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 20.3pt; tab-stops: 20.3pt;">
+                d)&nbsp;&nbsp;a provision of law is a reference to that provision as in force or may be amended or re-enacted;
+            </p>
+
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 20.3pt; tab-stops: 20.3pt;">
+                e)&nbsp;&nbsp;"including" or "includes" means including or includes without limitation;
+            </p>
+
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 20.3pt; tab-stops: 20.3pt;">
+                f)&nbsp;&nbsp;"material facts" means those facts, circumstances or opinions about the identity, business, financial condition or trading relationships of the Customer, Debtor or other person which are reasonably likely to influence the decisions of a commercial person considering a financial transaction involving any one of them;
+            </p>
+
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 20.3pt; tab-stops: 20.3pt;">
+                g)&nbsp;&nbsp;"writing" or "written" includes correspondence telex, fax, e-mail or any other means of writing;
+            </p>
+
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 20.3pt; tab-stops: 20.3pt;">
+                h)&nbsp;&nbsp;any undertaking not to do any act or thing includes an undertaking not to permit or suffer the doing of that act or thing,
+            </p>
+
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 20.3pt; tab-stops: 20.3pt;">
+                i)&nbsp;&nbsp;each undertaking will be given separately and not jointly and severally;
+            </p>
+
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 20.3pt; tab-stops: 20.3pt;">
+                j)&nbsp;&nbsp;the singular includes the plural and vice versa;
+            </p>
+
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 20.3pt; tab-stops: 20.3pt;">
+                k)&nbsp;&nbsp;a time of day is a reference to Australian Eastern Standard Time ("AEST"), and a 'month' is a calendar month;
+            </p>
+
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 20.3pt; tab-stops: 20.3pt;">
+                l)&nbsp;&nbsp;a "person" is a reference to any individual person, corporation, firm, company, partnership, joint venture, unincorporated body of persons, or any state or any agency of a state, whether or not a separate legal entity;
+            </p>
+
+            <h1 style="padding-top: 5pt;">
+                <span style="color: #000000;">2.</span>
+                <span lang="EN-NZ">Registration</span>
+            </h1>
+
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">2.1.&nbsp;&nbsp;Prior to using the FundTap System, the Customer,must create an Account. The relevant person creating the Account, whether individually or on behalf of the Customer, must be over 18 years of age and must have the Customer's authority to create the Account (both of which will be irrevocably, and unequivocally, inferred upon creation of the Account). If you do not have the foregoing authority you must not create an Account or apply to use, or access or use, the FundTap System in any capacity.
+                </span>
+            </p>
+
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">2.2.&nbsp;&nbsp;FundTap reserves the right in its sole discretion to refuse to approve the creation of an Account. </span>
+            </p>
+
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">2.3.&nbsp;&nbsp;The Customer must not allow anyone other than its authorised personnel or agents acting on its behalf ("Authorised User") to access and use its Account. </span>
+            </p>
+
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">2.4.&nbsp;&nbsp;The Customer acknowledges and agrees: </span>
+            </p>
+
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 20.3pt; tab-stops: 20.3pt;">
+                a)&nbsp;&nbsp;it has provided accurate and complete account and login information when creating an Account;
+            </p>
+
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 20.3pt; tab-stops: 20.3pt;">
+                b)&nbsp;&nbsp;it has linked its Accounting Software to the FundTap System as contemplated in clause 4.1;
+            </p>
+
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 20.3pt; tab-stops: 20.3pt;">
+                c)&nbsp;&nbsp;to keep, and ensure that Authorised Users keep, all account login details and passwords secure at all times;
+            </p>
+
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 20.3pt; tab-stops: 20.3pt;">
+                d)&nbsp;&nbsp;that it remains solely responsible and liable for the activity that occurs in connection with the Customer's account (including, without limitation, in respect of access and use by Authorised Users), and
+            </p>
+
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 20.3pt; tab-stops: 20.3pt;">
+                e)&nbsp;&nbsp;to promptly notify FundTap in writing if the Customer becomes aware of any unauthorised access or use of its Account or the FundTap System.
+            </p>
+
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">2.5.&nbsp;&nbsp;FundTap may at any time request that you provide any information relating to you or your use of the FundTap System as we consider necessary or desirable.</span>
+            </p>
+
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">2.6.&nbsp;&nbsp;FundTap may at any time, whether before or after your creation of an Account, require that certain Guarantees or Securities be provided by such credit support providers as it requires.</span>
+            </p>
+
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">2.7.&nbsp;&nbsp;In order for FundTap to undertake and execute searches and checks ("Investigations") on you, including (without limitation) credit, identity and anti-money laundering checks and searches on you, your officers, and beneficial owners, you authorise FundTap to undertake, or engage third parties to conduct such Investigations. The Customer authorises FundTap to pass any personal information to third parties for the purpose of executing the above Investigations and the Customer authorises FundTap to release its personal information or its officers, and beneficial owners. This information may be used by credit reporting and/or collection agencies to update and maintain credit information files and will be accessed by the customer of the credit reporting database. For the avoidance of doubt, the Customer is responsible to obtain and maintain the consent of its directors and officers for us to perform Investigations on them, and will defend, indemnify and hold us harmless, and will continue to indemnify and hold us harmless, from any failure by the Customer to do so.</span>
+            </p>
+
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">2.8.&nbsp;&nbsp;You irrevocably authorise us to obtain: </span>
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 20.3pt; tab-stops: 20.3pt;">
+                a)&nbsp;&nbsp;from the Bank or financial service provider, any information which we may require concerning your account with such;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 20.3pt; tab-stops: 20.3pt;">
+                b)&nbsp;&nbsp;from an Entity which provides insurance or credit enhancement to you, any information which we may require concerning the insurance or credit enhancement; and
+            </p>
+        </div>
+
+        <table style="height: 50px; text-align: center; line-height: 35px; width: 522pt;">
+            <tr>
+                <td style="text-align: left;">
+                    <img src="{{ public_path('tc_v4_logo.png') }}" height="45px" /><br />
+                    <span style="display: inline-block; margin-top: -13pt; margin-left: 8pt; font-size: 8pt;">Version_{{config("fundtap.agreement_version.agreement_file_version")}}_AU</span>
+                </td>
+                <td style="text-align: right;">
+                    <span lang="EN-NZ" style="font-weight: 700; font-size: 14pt; font-family: 'Calibri', 'sans-serif'; color: black;">Initial here:____</span><span class="annature-anchor">@{{initialSignature}}</span><br />
+                    <span class="page-number">Page 3</span> of 12
+                </td>
+            </tr>
+        </table>
+
+        <div class="page text-line-height" style="height: 740pt;">
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 20.3pt; tab-stops: 20.3pt;">
+                c)&nbsp;&nbsp;from your Accounting Software, and your accountants, bankers, financiers, cash providers, mentors or any other professional advisor, any information we may require concerning your financial and business affairs.
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">2.9.&nbsp;&nbsp;FundTap will only use any confidential information concerning the Customer for the purposes of carrying out credit risk assessments, preventing fraud or money laundering and exercising its rights under this Agreement, and for those purposes FundTap may at any time use, divulge or communicate to their professional representatives, employees, agents, servants, subcontractors, related entities, credit reporting, debt recovery and/or collection agencies, advisers or as may be required by law or any legal or regulatory authority or credit reference agencies, any such confidential information. FundTap will use all reasonable endeavours to prevent the unauthorised publication or disclosure of any such confidential information.</span>
+            </p>
+            <h1 style="padding-top: 5pt;">
+                <span style="color: #000000;">3.</span>
+                <span lang="EN-NZ">Sale and Purchase of Account Receivables</span>
+            </h1>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">3.1.&nbsp;&nbsp;The process by which an Account Receivable may be sold by the Customer, and purchased by FundTap, under the Agreement is as follows:</span>
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 20.3pt; tab-stops: 20.3pt;">
+                a)&nbsp;&nbsp;the Customer must provide details of the Account Receivable to FundTap, through the FundTap System;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 20.3pt; tab-stops: 20.3pt;">
+                b)&nbsp;&nbsp;upon receiving details of the Account Receivable in clause 3.1(a), FundTap may at its discretion either provide a Quote to the Customer or elect not to accept such Account Receivable for purchase;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 20.3pt; tab-stops: 20.3pt;">
+                c)&nbsp;&nbsp;if the Customer is provided with a Quote under clause 3.1(b), the Customer can elect to either accept the Quote (by clicking the "Accept Quote" button on the Website) or decline such Quote;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 20.3pt; tab-stops: 20.3pt;">
+                d)&nbsp;&nbsp;if the Customer accepts the Quote in accordance with clause 3.1(c), FundTap shall, at its discretion, either elect to acquire, or decline to acquire, the Account Receivable; and
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 20.3pt; tab-stops: 20.3pt;">
+                e)&nbsp;&nbsp;if FundTap elects to acquire the Account Receivable under clause 3.1(d) then:
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                (i)&nbsp;&nbsp;unless the Customer is a repeat customer, in which case the following obligation shall not apply, the Customer must deliver a fully signed copy of the Agreement (including all ancillary documents comprising the Agreement) to FundTap; and
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                (ii)&nbsp;&nbsp;subject to clause 3.1(e)(i):
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                (aa)&nbsp;&nbsp;all rights, title and interest in and to the Account Receivable will automatically transfer to FundTap and shall, for the purposes of the Agreement, be referred to as the Purchased Debt; and
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                (bb)&nbsp;&nbsp;FundTap will pay the Advance to your Account.
+            </p>
+
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">3.2.&nbsp;&nbsp;The Quote displayed to you on the FundTap System as set out in clause 3.1(b)) is a quotation only and is based on the fee calculation as set out on the "Quote" screen of the Website and is subject to change. This Quote is calculated on the number of days the Purchased Debt is outstanding, from the date you select an invoice for us to purchase until the Due Date for payment. The fee payable by you will be calculated on the actual date the Account Receivable is purchased and the actual date the Purchased Debt is repaid, including all FundTap Fees as outlined in clause 6, in full.</span>
+            </p>
+
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">3.3.&nbsp;&nbsp;The Customer acknowledges and agrees that any future acquisitions of Accounts Receivable by FundTap from the Customer shall be governed by, and subject to, the terms and conditions of the Agreement.</span>
+            </p>
+
+            <h1 style="padding-top: 5pt;">
+                <span style="color: #000000;">4.</span>
+                <span lang="EN-NZ">Access to Customer Accounting Software</span>
+            </h1>
+
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">4.1.&nbsp;&nbsp;Upon creation of an Account,and the linking of Accounting Software to the FundTap System, the Customer shall be automatically deemed to authorise FundTap to access its Accounting Software. The Customer warrants and represents that FundTap is fully authorised, without limitation, to access the Accounting Software. Failure to do so will render all outstanding amounts to FundTap due and payable, and the Customer shall be in default under this Agreement.</span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">4.2.&nbsp;&nbsp;Without limiting clause 4.1, the Customer acknowledges, agrees and authorises: </span>
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 20.3pt; tab-stops: 20.3pt;">
+                a)&nbsp;&nbsp;FundTap to access information from the Customer's subscription in respect of the Accounting Software, including any derived information.
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 20.3pt; tab-stops: 20.3pt;">
+                b)&nbsp;&nbsp;FundTap to send records of the Customer's account activity to the Accounting Software provider(s).
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 20.3pt; tab-stops: 20.3pt;">
+                c)&nbsp;&nbsp;FundTap to pay a commission to the Accounting Software provider(s)to access the Customer's information.
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">4.3.&nbsp;&nbsp;The Customer represents and warrants to FundTap that the accounting information held in the Accounting Software is a true and materially accurate reflection of the financial state of the Customer's business in all respects. Furthermore, the Customer represents and warrants that the information related to the Account Receivable provided to FundTap for Purchase is materially correct in all respects.</span>
+            </p>
+            <p class="MsoNormal">
+                <span lang="EN-NZ">4.4.&nbsp;&nbsp;The Customer agrees to provide, at the request of FundTap, the following: </span>
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 20.3pt; tab-stops: 20.3pt;">
+                a)&nbsp;&nbsp;copies of Accounts Receivable and all debit and credit notes or other documents evidencing how an Account Receivable has been reduced, paid or otherwise satisfied;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 20.3pt; tab-stops: 20.3pt;">
+                b)&nbsp;&nbsp;proofs of delivery or other evidence that the Customer has Delivered Goods and/or Services according to the Supply Contract;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 20.3pt; tab-stops: 20.3pt;">
+                c)&nbsp;&nbsp;any other information and evidence as we may require relating to any Account Receivable and/or Related Rights; and
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 20.3pt; tab-stops: 20.3pt;">
+                d)&nbsp;&nbsp;any financial or other information we may request relating to your business or affairs.
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">4.5.&nbsp;&nbsp;The Customer authorises FundTap to analyse and data mine any of the data available in the Accounting Software account, in order to ascertain the Customer's financial viability. </span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">4.6.&nbsp;&nbsp;FundTap has no control over, and assumes no responsibility for, the policies or practices of any third party software product or provider. The Customer agrees to indemnify and hold us harmless, and will continue to indemnify and hold us harmless, and expressly release us, from any and all liability arising from the Customer's use of, and/or connection to, the Accounting Software.</span>
+            </p>
+            <h1 style="padding-top: 5pt;">
+                <span style="color: #000000;">5.</span>
+                <span lang="EN-NZ">Payments</span>
+            </h1>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">5.1.&nbsp;&nbsp;The Customer must repay the Advance and all FundTap Fees to FundTap, on the Due Date and otherwise in accordance with this Agreement.</span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">5.2.&nbsp;&nbsp;Where the Advance and FundTap Fees are not repaid on the Due Date, whether as a result of a Debtor’s failure to pay an Account Receivable or otherwise, FundTap may at any time deduct an amount equal to the outstanding Advance and FundTap Fees from the Customer's bank account, pursuant to the Direct Debit Authority.</span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">5.3.&nbsp;&nbsp;Notwithstanding clause 5.2, immediately upon your receipt of Purchased Debt from a Debtor, you must immediately apply the funds from that Purchased Debt towards repayment of the relevant Advance and all outstanding FundTap Fees.</span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">5.4.&nbsp;&nbsp;You undertake to us not to revoke the Direct Debit Authority while you owe us any amount or if you intend to sell any additional invoices to FundTap. </span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">5.5.&nbsp;&nbsp;If any payment or debit from your bank account is reversed or dishonoured, you must make that payment to FundTap immediately in cash. </span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">5.6.&nbsp;&nbsp;You will pay when due any amounts you owe us without the necessity of demand. </span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">5.7.&nbsp;&nbsp;For the purpose of determining both your liability to pay, and the amount you are liable to pay to us, a certificate in writing,signed by any one of our directors stating the amount at any particular due date will be conclusive evidence (save for manifest error), in any legal or insolvency proceedings. In certifying the amounts due, we will be entitled to take into account all your liabilities (whether actual or contingent) and to make a reasonable estimate of any liability where its amount cannot immediately be ascertained.</span>
+            </p>
+
+            <h1 style="padding-top: 5pt;">
+                <span style="color: #000000;">6.</span>
+                <span lang="EN-NZ">Fees and Charges</span>
+            </h1>
+
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">6.1.&nbsp;&nbsp;You must pay to FundTap, the Transaction Fee as detailed in the FundTap Funding Notice. </span>
+            </p>
+
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">6.2.&nbsp;&nbsp;If you fail to pay the Advance and all fees in full on the Due Date, you become liable and must pay the Late Fee to FundTap as detailed in the FundTap Funding Notice, in addition to all other fees due.</span>
+            </p>
+        </div>
+
+        <table style="height: 50px; text-align: center; line-height: 35px; width: 522pt;">
+            <tr>
+                <td style="text-align: left;">
+                    <img src="{{ public_path('tc_v4_logo.png') }}" height="45px" /><br />
+                    <span style="display: inline-block; margin-top: -13pt; margin-left: 8pt; font-size: 8pt;">Version_{{config("fundtap.agreement_version.agreement_file_version")}}_AU</span>
+                </td>
+                <td style="text-align: right;">
+                    <span lang="EN-NZ" style="font-weight: 700; font-size: 14pt; font-family: 'Calibri', 'sans-serif'; color: black;">Initial here:____</span><span class="annature-anchor">@{{initialSignature}}</span><br />
+                    <span class="page-number">Page 4</span> of 12
+                </td>
+            </tr>
+        </table>
+
+        <div class="page text-line-height" style="height: 740pt;">
+
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">6.3.&nbsp;&nbsp;FundTap may recover any costs, expenses or disbursements incurred by it in recovering money from you, or from your Debtor, including without limitation, debt collection agency fees and legal fees.</span>
+            </p>
+            <h1 style="padding-top: 5pt;">
+                <span style="color: #000000;">7.</span>
+                <span lang="EN-NZ">Collections from Debtors</span>
+            </h1>
+
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">7.1.&nbsp;&nbsp;Subject to clause 7.2, FundTap shall have the sole ability to collect and enforce payment with respect to any outstanding Purchased Debt as it sees fit. </span>
+            </p>
+
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">7.2.&nbsp;&nbsp;Upon the Purchase of any Account Receivable, the Customer, at the sole discretion of FundTap, is appointed FundTap's agent insofar as collecting and enforcing the Purchased Debt from and against the Debtor. Any costs of doing so are the sole responsibility of the Customer. In acting as agent the Customer will comply with all reasonable instructions of FundTap, and direct that all payments are made directly to the Customer's bank account. Notwithstanding the above, the Customer authorises FundTap to contact the Debtor directly regarding any Purchased Debt.</span>
+            </p>
+
+            <h1 style="padding-top: 5pt;">
+                <span style="color: #000000;">8.</span>
+                <span lang="EN-NZ">Security</span>
+            </h1>
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ" style="font-weight: 700; font-size: 10pt;">Personal Property </span>
+            </p>
+
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">8.1.&nbsp;&nbsp;To secure all your present and future payment and performance obligations to us, howsoever arising, you hereby grant us a continuing, first ranking and continuing Security Interest in the Personal Property, including the Accounts Receivable.
+                </span>
+            </p>
+
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">8.2.&nbsp;&nbsp;You acknowledge and agree that FundTap may register a financing statement on the PPSR over the Personal Property, including the Accounts Receivable in respect of such Security Interests.</span>
+            </p>
+
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">8.3.&nbsp;&nbsp;You hereby acknowledge and agree that the Agreement constitutes a security agreement and creates "security interests" in terms of the PPSA. </span>
+            </p>
+
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">8.4.&nbsp;&nbsp;You warrant that you have notified and procured the consent of (or, if applicable, you will notify and agree to procure the consent of) all secured creditors of the Customer in relation to the grant of the Security Interests referred to in this clause 8.</span>
+            </p>
+
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">8.5.&nbsp;&nbsp;The Customer waives the right to receive a copy of the verification statement confirming registration of a financing statement or financing change statement relating to the Security Interests under the Agreement.</span>
+            </p>
+
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">8.6.&nbsp;&nbsp;The Customer agrees that nothing in sections 130 and 143 of the PPSA shall apply to the Agreement, or the security under the Agreement, and waives the Customer's rights under sections 132(3)(d), 132(4), 135, 137, 95 and 142 of the PPSA</span>
+            </p>
+            <p class="MsoNormal">
+                <span lang="EN-NZ" style="font-weight: 700; font-size: 10pt;">Other Property </span>
+            </p>
+
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">8.7.&nbsp;&nbsp;The Customer agrees, as security in respect of the Customer's payment and performance obligations, to hereby charge, all of its Other Property in favour of FundTap.</span>
+            </p>
+
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">8.8.&nbsp;&nbsp;The charge created over the Other Property is a fixed charge except where, but only to the extent that, that charge is not legally and fully effective as a fixed charge, in which event that charge will be a floating charge. If an Event of Default occurs any floating charge will become a fixed charge automatically and immediately in relation to the Other Property subject to that floating charge without the need for any notice or act by FundTap.</span>
+            </p>
+
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">8.9.&nbsp;&nbsp;Without limiting anything in clause 8.7 the Customer will, if required by FundTap at any time, immediately: </span>
+            </p>
+
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 20.3pt; tab-stops: 20.3pt;">
+                a)&nbsp;&nbsp;grant in favour of FundTap an all obligations mortgage in the form required by FundTap over such of the Customer's interests in any Real Property as FundTap may require; and
+            </p>
+
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 20.3pt; tab-stops: 20.3pt;">
+                b)&nbsp;&nbsp;deliver to FundTap any agreement, and do any other thing FundTap reasonably requires, in order to register any such mortgage.
+            </p>
+
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">8.10.&nbsp;&nbsp;Furthermore, the Customer hereby consents to FundTap lodging a caveat or caveats against the certificate(s) of the title to Real Property as notice of FundTap's interest arising under the agreement to mortgage.</span>
+            </p>
+
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">8.11.&nbsp;&nbsp;The Customer agrees to execute any documents or do all such things as may be required by FundTap to effect such Security on demand by FundTap. </span>
+            </p>
+
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">8.12.&nbsp;&nbsp;You covenant that the Other Property is only subject to the encumbrances and mortgages as may be set out in the Agreement and you agree not to sell, transfer, encumber, assign or agree to sell, transfer, encumber, assign or exchange your interest in the Other Property without obtaining FundTap's prior written consent.
+                </span>
+            </p>
+
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">8.13.&nbsp;&nbsp;You covenant to insure the buildings and improvements on the Real Property for their full replacement value against fire, accident, earthquake, weather damage and such other risks as we may require in our names for our respective rights and interests and with an insurer approved by us and to pay all premiums for the insurance and upon request by us produce policies and premium receipts to us.
+                </span>
+            </p>
+
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">8.14.&nbsp;&nbsp;Except to the extent inconsistent with the terms of the Agreement, the covenants implied by property legislation in the State or Territory in which the Property is located in relation to mortgages over land are implied in the respect of each mortgage given under the Agreement.
+                </span>
+            </p>
+
+            <p class="MsoNormal">
+                <span lang="EN-NZ" style="font-weight: 700; font-size: 10pt;">General </span>
+            </p>
+
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">8.15.&nbsp;&nbsp;We have the right to take possession of any Secured Property if this is required to enable us to perfect our Security Interest(s). </span>
+            </p>
+
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">8.16.&nbsp;&nbsp;We may, at all reasonable times, either personally or by agents, enter upon your premises to inspect the Secured Property. </span>
+            </p>
+
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">8.17.&nbsp;&nbsp;The Securities shall remain in full force while there is any money owed to us by you and shall extend to cover any sum of money which may become owing from you to us until a final release has been executed by us.
+                </span>
+            </p>
+
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">8.18.&nbsp;&nbsp;The Securities that concern your present and future accounts receivable (including, for the avoidance of doubt, the Accounts Receivable), and present and future rights to any accounts receivable, take effect as and will be deemed a transfer of those accounts receivable to us for new value as that term is defined in the PPSA and are not securing antecedent liability.
+                </span>
+            </p>
+
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">8.19.&nbsp;&nbsp;At FundTap's request, the Customer must, at its own cost, promptly execute and deliver to FundTap all assignments, transfers, charges and other agreements and documents, and to do or provide anything else which FundTap may deem appropriate to:
+                </span>
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 20.3pt; tab-stops: 20.3pt;">
+                a)&nbsp;&nbsp;perfect the Customer's title to any Secured Property;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 20.3pt; tab-stops: 20.3pt;">
+                b)&nbsp;&nbsp;perfect a Security Interest intended to be created under this Agreement;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 20.3pt; tab-stops: 20.3pt;">
+                c)&nbsp;&nbsp;facilitate the realisation of any of the Secured Property; or
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 20.3pt; tab-stops: 20.3pt;">
+                d)&nbsp;&nbsp;secure to FundTap Party the full benefit of its rights under this Agreement.
+            </p>
+
+            <h1 style="padding-top: 5pt;">
+                <span style="color: #000000;">9.</span>
+                <span lang="EN-NZ">Dispute Provisions and Liability</span>
+            </h1>
+
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">9.1.&nbsp;&nbsp;You agree: </span>
+            </p>
+
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 20.3pt; tab-stops: 20.3pt;">
+                a)&nbsp;&nbsp;to make a good faith effort to resolve any dispute or misunderstanding that may arise between you and us by the least expensive, most expeditious means available;
+            </p>
+
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 20.3pt; tab-stops: 20.3pt;">
+                b)&nbsp;&nbsp;if you breach any term, representation, or warranty and, as a consequence, we suffer a loss, you will be liable for our loss; and
+            </p>
+
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 20.3pt; tab-stops: 20.3pt;">
+                c)&nbsp;&nbsp;if we engage a collection agency or an attorney, barrister, solicitor or other professional to enforce any of our rights against the Customer or any Guarantor, you will pay on a full indemnity basis all our expenses, including collection fees and professional fees, costs, and the maximum interest allowed by law.
+            </p>
+
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">9.2.&nbsp;&nbsp;If you are dissatisfied with our internal dispute determination you may refer your complain to the ISFO (Insurance and Financial Services Ombudsman, ifso.co.nz), AFCA (Australian Financial Complaints Authority, afca.org.au) or OAIC (Office of the Australian Information Commissioner, oaic.gov.au).
+                </span>
+            </p>
+
+        </div>
+
+        <table style="height: 50px; text-align: center; line-height: 35px; width: 522pt;">
+            <tr>
+                <td style="text-align: left;">
+                    <img src="{{ public_path('tc_v4_logo.png') }}" height="45px" /><br />
+                    <span style="display: inline-block; margin-top: -13pt; margin-left: 8pt; font-size: 8pt;">Version_{{config("fundtap.agreement_version.agreement_file_version")}}_AU</span>
+                </td>
+                <td style="text-align: right;">
+                    <span lang="EN-NZ" style="font-weight: 700; font-size: 14pt; font-family: 'Calibri', 'sans-serif'; color: black;">Initial here:____</span><span class="annature-anchor">@{{initialSignature}}</span><br />
+                    <span class="page-number">Page 5</span> of 12
+                </td>
+            </tr>
+        </table>
+
+        <div class="page text-line-height" style="height: 740pt;">
+
+            <h1 style="padding-top: 5pt;">
+                <span style="color: #000000;">10.</span>
+                <span lang="EN-NZ">Anti-Money Laundering</span>
+            </h1>
+
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">10.1.&nbsp;&nbsp;For the purposes of the AML/CTF Act: </span>
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 20.3pt; tab-stops: 20.3pt;">
+                a)&nbsp;&nbsp;unless you have advised us otherwise in writing and we have accepted, you warrant and undertake:
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                (i)&nbsp;&nbsp;that you are entering into the Agreement in your own right as the sole person(s) with a beneficial interest in the Agreement and in all property given as Security;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                (ii)&nbsp;&nbsp;no information has been withheld and all information you have given us is sufficient to enable us to determine your status under the AML/CTF Act;
+            </p>
+
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                (iii)&nbsp;&nbsp;that you are not a "politically exposed person" (i.e. an individual who holds or is in any way related to a person who holds, a prominent public function in Australia or overseas.) for the purposes of the AML/CTF Act; and
+            </p>
+
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                (iv)&nbsp;&nbsp;that you are not a "politically exposed person" (i.e. an individual who holds or is in any way related to a person who holds or has held in the prior 12 months, a prominent public function in a foreign country and or an individual who has ownership of a legal entity or any other relationship, with or on behalf of such a person) for the purposes of the AML/CTF Act; and
+            </p>
+
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 20.3pt; tab-stops: 20.3pt;">
+                b)&nbsp;&nbsp;if any warranty given under clause 10.1(a)is incorrect; if you fail to provide information under clause 10.1(iii) when requested; or if we determine on reasonable grounds that your status under the AML/CTF Act has changed and as a result your ability to meet your obligations under the Agreement is impaired then you will be deemed to have given us incorrect or misleading or deceptive information and an Event of Default will have occurred under the Agreement.
+            </p>
+
+            <h1 style="padding-top: 5pt;">
+                <span style="color: #000000;">11.</span>
+                <span lang="EN-NZ">Default</span>
+            </h1>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">11.1.&nbsp;&nbsp;An Event of Default occurs if: </span>
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                a)&nbsp;&nbsp;you breach or threaten to breach any material warranty, undertaking or other obligation given or undertaken by you in the this Agreement, or any related Guarantee or Security;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                b)&nbsp;&nbsp;you fail to pay any sum due from you on the due date to us under this Agreement;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                c)&nbsp;&nbsp;you are determined by us to have (or to have attempted to) hack into, access without our express authorisation or otherwise interfere with, the FundTap System, or we have reason to believe you have committed or attempted to commit any act of fraud on or through the FundTap System;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                d)&nbsp;&nbsp;you or one of your Debtors becomes Insolvent, liquidates or goes bankrupt, calls a meeting of creditors, makes a payment arrangement with creditors, sells a substantial portion of assets, permits a judgment to remain unsatisfied for seven days or suffers the appointment of a receiver or application for or execution of a judgment upon assets or premises;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                e)&nbsp;&nbsp;you fail to pay any sum due under any other financing facility made available by any person to you or otherwise breach the terms of any such facility;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                f)&nbsp;&nbsp;you cease to carry on the business conducted by you when you became a Customer;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                g)&nbsp;&nbsp;you take an action, or FundTap believes you are about to take an action, which places the Secured Property at risk;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                h)&nbsp;&nbsp;you revoke the Direct Debit Authority for FundTap while there is any sum due from you to us under this Agreement;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                i)&nbsp;&nbsp;you breach any other term or condition hereof;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                j)&nbsp;&nbsp;any Guarantor fails to meet any of its material obligations under a Guarantee or any other document or agreement that it has entered into, or in the future enters into, with FundTap;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                k)&nbsp;&nbsp;an event, or a series of events (whether related or not), occurs which, in FundTap's opinion, may cause a material adverse change in the ability of the Customer or any Guarantor to meet your obligations under the Agreement, the Guarantee or any other document or agreement you have entered into, or in the future enter into, with FundTap; or
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                l)&nbsp;&nbsp;any of the events set out above occur under any other agreement you have with FundTap or under any Security that you have given or agreed to give to FundTap.
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">11.2.&nbsp;&nbsp;If any Event of Default occurs, we may, whenever we like thereafter, without limiting any of our other rights: </span>
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                a)&nbsp;&nbsp;declare that all outstanding Advances, together with FundTap Fees and any other amounts payable pursuant to this Agreement are immediately due and payable, at which point they will become immediately due and payable;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                b)&nbsp;&nbsp;set-off or deduct from any payment due to you all our costs and expenses recoverable under the Agreement and incurred as a result of such default;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                c)&nbsp;&nbsp;exercise any rights that we have under the Agreement or that are available to us at law;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                d)&nbsp;&nbsp;obtain judgment and enforce such judgment against you for any monies owed by you to us under the Agreement;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                e)&nbsp;&nbsp;exercise any rights that we have under any of the Securities, including:
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 45.3pt; tab-stops: 45.3pt;">
+                (i)&nbsp;&nbsp;enforce each Security Interest created by this Agreement;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 45.3pt; tab-stops: 45.3pt;">
+                (ii)&nbsp;&nbsp;enter onto your premises;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 45.3pt; tab-stops: 45.3pt;">
+                (iii)&nbsp;&nbsp;take or demand possession of all or any of the Secured Property and do all things necessary to exercise that right;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 45.3pt; tab-stops: 45.3pt;">
+                (iv)&nbsp;&nbsp;do all things and exercise any right or power that the Customer may do or exercise in relation to the Secured Property; and
+            </p>
+
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                f)&nbsp;&nbsp;appoint any person or persons to be receiver or a receiver and manager in respect of all or any of the Secured Property, with such receiver or manager having:
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 45.3pt; tab-stops: 45.3pt;">
+                (i)&nbsp;&nbsp;all the rights conferred on receivers and managers by law (including under the Receiverships Act 1993);
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 45.3pt; tab-stops: 45.3pt;">
+                (ii)&nbsp;&nbsp;sell all or any part of the Secured Property;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 45.3pt; tab-stops: 45.3pt;">
+                (iii)&nbsp;&nbsp;all the rights of FundTap under this clause 11.2 (whether or not those rights are yet enforceable by the Secured Party);
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 45.3pt; tab-stops: 45.3pt;">
+                (iv)&nbsp;&nbsp;all the rights of a natural person in relation to the Secured Property and the Customer's businesses and operations; and
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 45.3pt; tab-stops: 45.3pt;">
+                (v)&nbsp;&nbsp;all other rights conferred by law (including under Part 9 of the PPSA) in relation to the Secured Property,
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                g)&nbsp;&nbsp;appoint a debt collector to recover any monies owed by you to us under the Agreement;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                h)&nbsp;&nbsp;seek to enforce any Guarantee; and
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                i)&nbsp;&nbsp;without limiting the above, terminate the Agreement, and to exercise all of its rights and remedies against the Customer under the Agreement and under any of the Securities.
+            </p>
+            <h1 style="padding-top: 5pt;">
+                <span style="color: #000000;">12. </span>
+                <span lang="EN-NZ">Customer Warranties</span>
+            </h1>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">12.1.&nbsp;&nbsp;In relation to each Purchased Debt, the Customer warrants each of the following, unless you advise FundTap otherwise in writing concurrently or prior to the time the relevant Account Receivable is provided to us:
+                </span>
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                a)&nbsp;&nbsp;all incorporation documents, authorisations, banking details, financial, trading and other information provided by or on behalf of the Customer to FundTap are true, complete and accurate in all material respects and do not omit any material fact nor are they misleading or deceptive in any way;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                b)&nbsp;&nbsp;all the particulars in your Account are correct and complete;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                c)&nbsp;&nbsp;the details provided to FundTap of the Account Receivable and the Debtor are true, complete and correct;
+            </p>
+        </div>
+
+        <table style="height: 50px; text-align: center; line-height: 35px; width: 522pt;">
+            <tr>
+                <td style="text-align: left;">
+                    <img src="{{ public_path('tc_v4_logo.png') }}" height="45px" /><br />
+                    <span style="display: inline-block; margin-top: -13pt; margin-left: 8pt; font-size: 8pt;">Version_{{config("fundtap.agreement_version.agreement_file_version")}}_AU</span>
+                </td>
+                <td style="text-align: right;">
+                    <span lang="EN-NZ" style="font-weight: 700; font-size: 14pt; font-family: 'Calibri', 'sans-serif'; color: black;">Initial here:____</span><span class="annature-anchor">@{{initialSignature}}</span><br />
+                    <span class="page-number">Page 6</span> of 12
+                </td>
+            </tr>
+        </table>
+
+        <div class="page text-line-height" style="height: 740pt;">
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                d)&nbsp;&nbsp;Accounts Receivable provided to FundTap for sale are not overdue or Defaulted Debt;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                e)&nbsp;&nbsp;any Account Receivable provided by the Customer is not for the purposes of money laundering or in contravention of any applicable law;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                f)&nbsp;&nbsp;the Account Receivable has not previously been sold or offered for sale to FundTap or any other person or entity;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                g)&nbsp;&nbsp;the Account Receivable does not arise (i) from the sale of your capital assets, or (ii) under any loan, hire purchase, leasing or consumer credit sale agreement;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                h)&nbsp;&nbsp;you have performed all obligations required for the enforcement of the Account Receivable;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                i)&nbsp;&nbsp;the Account Receivable is valid, binding and enforceable for the full Gross Amount, the Debtor is liable to pay that amount in full on the Due Date and the Account Receivable is not disputed, or voidable, and is not subject to any conditions or interests of any type which might affect its collection;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                j)&nbsp;&nbsp;there are no contra accounts, set-offs, abatements, rebates, allowances, discounts, credits, defences, counterclaims or deductions asserted, allowable or enforceable in relation to the Account Receivable or the Debtor;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                k)&nbsp;&nbsp;the Account Receivable has arisen in the ordinary course of your business and results from an actual, bona fide and arm's length sale of Goods, or performance of Services, in the ordinary course of that business. No shareholder, director, officer, trustee or partner, or spouse thereof, has a direct or indirect financial interest in the Debtor;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                l)&nbsp;&nbsp;you have an unqualified right to transfer the Account Receivable to us;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                m)&nbsp;&nbsp;we will obtain valid and unencumbered title to the Account Receivable under the Agreement in accordance with the laws of Australia;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                n)&nbsp;&nbsp;you will unconditionally and absolutely sell, transfer and assign to us all of your right, title and interest in and to any accepted Account Receivable;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                o)&nbsp;&nbsp;the Goods purchased by the Debtor are in accordance with the Account Receivable, are the items described in the invoice and have been Delivered to and accepted by the Debtor, or the Services have been performed in accordance with the Account Receivable to the satisfaction of the Debtor and are those described in the Account Receivable;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                p)&nbsp;&nbsp;you have complied with all laws relating to the Account Receivable and their delivery or performance and you have done nothing which could make us liable in respect of the Account Receivable;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                q)&nbsp;&nbsp;you have disclosed in full both your terms of trade relating to the Account Receivable, and you will not attempt to cancel, waive or modify them, or extend the time for payment;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                r)&nbsp;&nbsp;immediately before the Goods relating to the Account Receivable were sold to the Debtor, you had good and unencumbered title to them;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                s)&nbsp;&nbsp;you have disclosed to FundTap, and have preserved, any insurance policy relating to the Account Receivable or any Goods delivered or Services performed, and any Security Interest or guarantee granted or arising to better secure payment of the Account Receivable;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                t)&nbsp;&nbsp;the Debtor has an established place of business, is not an associate of yours, and has no right which would reduce the net value of the Account Receivable;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                u)&nbsp;&nbsp;to the extent that the Account Receivable relates to Goods supplied, the Account Receivable, evidences a monetary obligation and a Security Interest in those Goods granted to you by the Debtor;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                v)&nbsp;&nbsp;you will immediately notify us and give us any information you obtain in relation to the validity of the Account Receivable, the creditworthiness of the Debtor, any dispute or possible dispute about the Account Receivable and anything else that might affect the collection of the Account Receivable, or its full value to us. You must also tell us if a Debtor returns any Goods;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                w)&nbsp;&nbsp;we may, at our discretion, deal with any cheques, money orders, negotiable instruments or other instruments even if they are payable to you;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                x)&nbsp;&nbsp;we shall have the right to endorse for deposit any instrument of payment Delivered to us but made payable to you, irrespective of any deductions or notations;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                y)&nbsp;&nbsp;you will continue to engage with your Debtor (despite the Account Receivables having been assigned) to procure the timely payment of such invoices in accordance with the expected Due Date; and
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                z)&nbsp;&nbsp;the Accounts Receivable are not consumer credit contracts and do not constitute consumer credit for the purposes of the National Consumer Credit Protection Act 2009 (Cth.).
+            </p>
+
+            <h1 style="padding-top: 5pt;">
+                <span style="color: #000000;">13. </span>
+                <span lang="EN-NZ">Your Other Warranties</span>
+            </h1>
+
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">13.1.&nbsp;&nbsp;You also warrant and represent to FundTap each of the following:</span>
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                a)&nbsp;&nbsp;you will use the FundTap System in full compliance with this Agreement, the requirements relating to the FundTap System, the Privacy Policy and with all applicable laws;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                b)&nbsp;&nbsp;you are a duly incorporated, organised and validly existing Entity and in good standing with full power and authority to enter into, agree to and perform all the respective obligations under the Agreement and to conduct your business as presently conducted and you have disclosed to us everything known to you which might have influenced our decision to enter into the Agreement. You warrant that you have the full power and authority to enter into the Agreement and perform your obligations under it, and will continue to have that power and authority and that your performance under the Agreement is legal, valid, binding and enforceable against
+                you;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                c)&nbsp;&nbsp;you have truthfully and fully disclosed to us all your existing actual or potential financial indebtedness, all Security Interests over any of your assets (including a Security Interest in respect of which a financing statement has been registered in the PPSR), and all guarantees which you have given;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                d)&nbsp;&nbsp;you will not incur any further financial indebtedness, create any further Security Interests, or allow any further financial indebtedness or Security Interests to continue, without obtaining our consent;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                e)&nbsp;&nbsp;you are and will remain solvent, and you do not have, and will not have, any creditors account which is more than 120 days overdue;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                f)&nbsp;&nbsp;you will comply with the Privacy Policy in all material respects;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                g)&nbsp;&nbsp;you have paid, and will pay on time, any tax (including GST & PAYG) payable by you in respect of your business activities or your employees or contractors, and you will truthfully and fully lodge all tax (including GST & PAYG) returns on time. If we ask you to, you must provide a copy of those returns and evidence of payment of the tax to us;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                h)&nbsp;&nbsp;there is no default (that is material in the context of the Agreement) under any agreement, undertaking or instrument to which you are a party and no Event of Default has occurred and you have no knowledge that an Event of Default is about to occur, nor do you reasonably suspect that any Event of Default will occur and that you will notify FundTap immediately if any Event of Default does occur; and
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                i)&nbsp;&nbsp;you have disclosed to the Guarantor/s all facts and circumstances and terms and conditions of the Agreement which might adversely affect the Guarantor's decision to provide a Guarantee;
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">13.2.&nbsp;&nbsp;You will not do any of the following without our consent:</span>
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                a)&nbsp;&nbsp;lend any money or arrange to lend money to any Entity, or give a guarantee;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                b)&nbsp;&nbsp;anything which may make you liable to a third party, except in relation to Goods or Services supplied to you or work done for you in the ordinary course of your business;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                c)&nbsp;&nbsp;become liable to pay for Goods, Services or work before the Goods are Delivered, the Services are performed or the work is done;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                d)&nbsp;&nbsp;sell Goods on approval, with any right of return, or on consignment;
+            </p>
+        </div>
+
+        <table style="height: 50px; text-align: center; line-height: 35px; width: 522pt;">
+            <tr>
+                <td style="text-align: left;">
+                    <img src="{{ public_path('tc_v4_logo.png') }}" height="45px" /><br />
+                    <span style="display: inline-block; margin-top: -13pt; margin-left: 8pt; font-size: 8pt;">Version_{{config("fundtap.agreement_version.agreement_file_version")}}_AU</span>
+                </td>
+                <td style="text-align: right;">
+                    <span lang="EN-NZ" style="font-weight: 700; font-size: 14pt; font-family: 'Calibri', 'sans-serif'; color: black;">Initial here:____</span><span class="annature-anchor">@{{initialSignature}}</span><br />
+                    <span class="page-number">Page 7</span> of 12
+                </td>
+            </tr>
+        </table>
+
+        <div class="page text-line-height" style="height: 740pt;">
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                e)&nbsp;&nbsp;allow payment to be made to you in the case of a Debt which is not a Purchased Debt later than 120 days after the end of the month in which the Debt arose;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                f)&nbsp;&nbsp;pay any dividend or make any distribution; or
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                g)&nbsp;&nbsp;repay a shareholder loan, a loan made by an Entity which is related to you or, if you are a partnership, a loan made by any of you to the firm.
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">13.3.&nbsp;&nbsp;You warrant and represent that:</span>
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                a)&nbsp;&nbsp;your entering into the Agreement and the performance of your obligations under it will not breach any other agreement binding on you or any other Entity or breach any law;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                b)&nbsp;&nbsp;each of your obligations under the Agreement is and will continue to be valid, binding and enforceable;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                c)&nbsp;&nbsp;you enter into the Agreement wholly for business or investment purposes and understand that, the Agreement will not constitute a "credit contract" (as defined in sections 4 and 5 of the National Credit Code contained in Schedule 1 of the <i>National Consumer Credit Protection Act 2009</i> (Cth) ("NCC") and, therefore, will not be subject to the requirements and legal protections applicable to those type of contracts under the NCC;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                d)&nbsp;&nbsp;there are no proceedings or investigations, pending or threatened, against you before any court, agency, or other government body, that have not been disclosed to FundTap;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                e)&nbsp;&nbsp;you are the authorised person to execute the Agreement on behalf of the Customer and all such documents relating to the sales of Accounts Receivable by the Customer to FundTap;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                f)&nbsp;&nbsp;entering into the Agreement is in the best interests of the Customer and.
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                g)&nbsp;&nbsp;the Customer is solvent, is able to pay its debts when due and is able to perform its obligations under the Agreement.
+            </p>
+            <h1 style="padding-top: 5pt;">
+                <span style="color: #000000;">14. </span>
+                <span lang="EN-NZ">Power of Attorney</span>
+            </h1>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">14.1.&nbsp;&nbsp;In consideration of FundTap agreeing to enter into the Agreement, the Customer and Guarantor irrevocably and unconditionally, appoints FundTap, each receiver or receiver and manager appointed by FundTap, any director for the time being of FundTap, and any officer, attorney for the time being, or nominee of FundTap who has been authorised by FundTap, to be the attorney of the Customer and Guarantor (each referred to herein as the "Attorney") to:
+                </span>
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                a)&nbsp;&nbsp;do all acts and things which the Customer and Guarantor is obliged to do or which the Customer and Guarantor is empowered or authorised to do under the Agreement, including to sign any document for and on behalf of the Customer and Guarantor which the Attorney thinks desirable to protect the interests of FundTap under the Agreement (including, without limitation, direct debit forms, consents to caveat, mortgages, security agreements, notices and any instrument required by FundTap in order to register any of its securities granted under the Agreement on the Personal Property Securities Register, or at the land titles office of the applicable Australian state or territory or otherwise); and
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                b)&nbsp;&nbsp;from time to time appoint and revoke a substitute or substitutes, and the Customer and Guarantor agrees to ratify and confirm all and whatever the Attorney or any substitute or substitutes lawfully do or cause to be done for that purpose. The Attorney may act irrespective of any conflict of interest and/or duty that may arise.
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">14.2.&nbsp;&nbsp;The Customer and Guarantor agrees that this Power of Attorney is irrevocable and remains in full force and effect until all of the obligations owed by the Customer and Guarantor to FundTap under the Agreement are discharged in full.
+                </span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">14.3.&nbsp;&nbsp;Upon the exercise by FundTap of any power or authority contained or implied in the Agreement, no person dealing with FundTap or any attorney appointed under the Agreement shall be bound to inquire:
+                </span>
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                a)&nbsp;&nbsp;as to the due appointment of the Attorney;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                b)&nbsp;&nbsp;whether any Event of Default;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                c)&nbsp;&nbsp;whether the Agreement has been repudiated by the Customer and Guarantor and such repudiation has been accepted by FundTap; or
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                d)&nbsp;&nbsp;otherwise as to the propriety or regularity of the exercise of any power or authority under the Agreement.
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">14.4.&nbsp;&nbsp;No such person referred to in clause 14.3 above shall be affected by notice, express or otherwise, that any such exercise is unnecessary or improper. Notwithstanding any irregularity or impropriety in the power or authority, its exercise shall as regards to the protection of other persons be deemed authorised by that power and authority and shall be valid and effectual accordingly.
+                </span>
+            </p>
+
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">14.5.&nbsp;&nbsp;The Customer and Guarantor agrees to pay to FundTap all legal costs on a full indemnity (solicitor and own client) basis which FundTap incurs in giving effect to this Power of Attorney.
+                </span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">14.6.&nbsp;&nbsp;The Customer and Guarantor acknowledges that they have had the opportunity to take independent legal advice on the legal effect of this Power of Attorney and have either taken such advice and decided to enter into this Power of Attorney or have elected to waive the opportunity to take legal advice and have decided to enter into this Power of Attorney in any event. The Customer and Guarantor will not raise as a defence to any enforcement of the Customer's and Guarantor's obligations under this Power of Attorney that the Customer and Guarantor was not given the opportunity to obtain or seek independent legal advice.
+                </span>
+            </p>
+            <h1 style="padding-top: 5pt;">
+                <span style="color: #000000;">15.</span>
+                <span lang="EN-NZ">Our Liability</span>
+            </h1>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">15.1.&nbsp;&nbsp;You agree that you, and not us, assume and accept all risks associated with entering into transactions using the FundTap System, including:</span>
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                a)&nbsp;&nbsp;whether there is or may be a breach of any warranty or undertaking given by any other customer under this Agreement;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                b)&nbsp;&nbsp;the identity, solvency, creditworthiness, and good faith of other customers or their debtors;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                c)&nbsp;&nbsp;that all information provided by any customer about its financial condition, trading history and trading prospects and any other material facts about itself;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                d)&nbsp;&nbsp;its supply contracts and debts and any other material facts relating to its business, are genuine, complete and accurate;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                e)&nbsp;&nbsp;whether a Purchased Debt will be paid by a Debtor, in whole or part.
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">15.2.&nbsp;&nbsp;The FundTap System is provided on an "as is" and "as available" basis, and without warranties of any kind either express or implied. Without limiting clause 12, FundTap hereby disclaims all warranties, express or implied, including but not limited to implied warranties of merchantability, title, fitness for a particular purpose, non-infringement, and those arising by statute or from a course of dealing or usage of trade. FundTap does not guarantee that the services will be free of bugs, security breaches, or virus attacks. The services may occasionally be unavailable for routine maintenance, upgrading, or other reasons. You agree that FundTap will not be held responsible for any consequences to you or any third party that may result from technical problems of the Internet, slow connections, traffic congestion or overload of our or other servers. FundTap does not make any representations, warranties or conditions of any kind, express or implied, as to the security of any information you may provide or activities you engage in during the course of your use of the services.
+                </span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">15.3.&nbsp;&nbsp;To the fullest extent permissible by law, FundTap shall not be liable for any indirect, exemplary, special, consequential, or incidental injury, loss, liability or damages of any kind arising under this Agreement or out of your use of, or inability to use, the services, even if FundTap has been advised of the possibility of such damages.
+                </span>
+            </p>
+            <h1 style="padding-top: 5pt;">
+                <span style="color: #000000;">16.</span>
+                <span lang="EN-NZ">Indemnity</span>
+            </h1>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">16.1.&nbsp;&nbsp;You agree to defend, indemnify and hold harmless (and continue to indemnify and hold harmless) FundTap and our affiliates and related entities, and our respective officers, directors, employees and agents, from and against any and all claims, damages, obligations, losses, liabilities, costs and expenses (including but not limited to attorney's fees) arising from: (i) your use of the FundTap System; (ii) a purchase by us of an Account Receivable from you (iii) your violation of the this Agreement; and (iv) your transmission of data to FundTap.
+                </span>
+            </p>
+
+        </div>
+
+        <table style="height: 50px; text-align: center; line-height: 35px; width: 522pt;">
+            <tr>
+                <td style="text-align: left;">
+                    <img src="{{ public_path('tc_v4_logo.png') }}" height="45px" /><br />
+                    <span style="display: inline-block; margin-top: -13pt; margin-left: 8pt; font-size: 8pt;">Version_{{config("fundtap.agreement_version.agreement_file_version")}}_AU</span>
+                </td>
+                <td style="text-align: right;">
+                    <span lang="EN-NZ" style="font-weight: 700; font-size: 14pt; font-family: 'Calibri', 'sans-serif'; color: black;">Initial here:____</span><span class="annature-anchor">@{{initialSignature}}</span><br />
+                    <span class="page-number">Page 8</span> of 12
+                </td>
+            </tr>
+        </table>
+
+        <div class="page text-line-height" style="height: 740pt;">
+            <h1 style="padding-top: 5pt;">
+                <span style="color: #000000;">17.</span>
+                <span lang="EN-NZ">Waivers</span>
+            </h1>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">17.1.&nbsp;&nbsp;You waive any right to assert against us as a defence, counterclaim, or offset any defence you may have against any other party liable to us in any way, including without limitation your Debtor.
+                </span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">17.2.&nbsp;&nbsp;You waive the right to require us to proceed against any other person liable to us regarding your obligations to us prior to exercising our rights against you.</span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">17.3.&nbsp;&nbsp;No waiver by us of any one or more provisions hereof shall constitute waiver of any other provision or be deemed to be a continuing waiver.</span>
+            </p>
+            <h1 style="padding-top: 5pt;">
+                <span style="color: #000000;">18.</span>
+                <span lang="EN-NZ"> Assignment</span>
+            </h1>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">18.1.&nbsp;&nbsp;FundTap may assign or otherwise transfer any of its rights and obligations to any person or legal entity. The Customer may not assign any of its rights and obligations to any person or legal entity without the prior consent of FundTap.
+                </span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">18.2.&nbsp;&nbsp;For the purposes of clause 18.1 any proposed change in the shareholding of the Customer altering the effective control of that party will be a deemed assignment.</span>
+            </p>
+
+            <h1 style="padding-top: 5pt;">
+                <span style="color: #000000;">19.</span>
+                <span lang="EN-NZ"> General</span>
+            </h1>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">19.1.&nbsp;&nbsp;The Agreement is personal to you and you may not transfer or hold on trust any of your rights and responsibilities under the Agreement without our written consent. We may transfer any of our rights and responsibilities under the Agreement or any Account Receivable or Purchased Debt without your prior permission.
+                </span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">19.2.&nbsp;&nbsp;We may vary any part of the Agreement, where such variation does not have a material impact on you, by uploading the same to the FundTap System and/or by providing you with e-mail confirmation of the same. All amended terms will automatically be effective.
+                </span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">19.3.&nbsp;&nbsp;We may vary any part of the Agreement, where such variation may have a material impact on you, by giving you 14 days' notice of the proposed variation by uploading the same to the FundTap System and/or by e-mail. If you do not agree the proposal, you may within 14 days of receiving notice immediately terminate the Agreement with FundTap by written notice to us. All amended terms will automatically be effective 14 days after they are posted or sent by e-mail, or if you subsequently offer an Account Receivable for sale as set out in clause 3.
+                </span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">19.4.&nbsp;&nbsp;If we fail to exercise any of our rights under the Agreement we will not waive that right. Any waiver of any right will be limited to the specific instance.</span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">19.5.&nbsp;&nbsp;If any provision of the Agreement is held to be invalid, void or for any reason unenforceable, the provision shall be struck out and will not affect the validity and enforceability of the remaining provisions.
+                </span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">19.6.&nbsp;&nbsp;The Agreement constitutes the whole agreement between you and FundTap and supersedes all previous agreements and understandings relating to the subject matter.</span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">19.7.&nbsp;&nbsp;We may give any notice required under this Agreement in writing by post or email to you to the current address held in our records, or by posting a message to you on the FundTap System. You may specify additional or different address information by sending the details in writing (including email) to us. All notices and other communications sent between you and us will be effective upon delivery, except where emailed or posting a message, in which case they are effective upon sending or posting.
+                </span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">19.8.&nbsp;&nbsp;We will infer that we have your consent, pursuant to the Spam Act 2003 (Aus) and Unsolicited Electronic Messages Act 2007 (NZ), to send you commercial emails from time to time unless you inform us otherwise by letter or email. The email address for unsubscribing to commercial emails is info@fundtap.co
+                </span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">19.9.&nbsp;&nbsp;The business relationship between you and FundTap will be conducted under the Electronic Transactions Act 1999 (Cth) and the applicable state and territory Electronic Transactions Acts, pursuant to which we are permitted to conduct our business with you electronically and in doing so:
+                </span>
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                a)&nbsp;&nbsp;any electronic communication from us to you will be in a form which will be able to be saved by you, will be able to be printed by you or will be usable by you for subsequent reference;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                b)&nbsp;&nbsp;any electronic communication from us to you will either direct you to a website from which the document can be downloaded, or the communication will have an attachment containing the information;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                c)&nbsp;&nbsp;we will retain a copy of the electronic communication for such time as we are required to by law in a form which complies with the law; and
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                d)&nbsp;&nbsp;we intend to communicate with you electronically in all matters where we are able to by law, and we expect that you will regularly check your electronic communication systems (email and SMS in particular, and fax where applicable) to see if there is any electronic communication from us.
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                e)&nbsp;&nbsp;paper documents may no longer be given; and
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                f)&nbsp;&nbsp;you may withdraw consent to the giving of electronic communications at any time. 
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">19.10.&nbsp;&nbsp;Either party may sign this Agreement or any other document between the parties by way of the application of that party’s electronic signature in accordance with the Electronic Transactions Act 1999 (Cth) and the applicable state and territory Electronic Transactions Acts.
+                </span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">19.11.&nbsp;&nbsp;If any of you have entered into the Agreement solely in the capacity as a trustee of a trust, then you represent and warrant to FundTap that: </span>
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                a)&nbsp;&nbsp;you have the power to enter into the Agreement and to grant any Security Interest to be given over assets of the trust in your capacity as trustee;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                b)&nbsp;&nbsp;you enter into the Agreement for the benefit of and for the proper purposes of the trust under which you hold the property;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                c)&nbsp;&nbsp;all of the persons who are trustees of the relevant trust have approved and have signed or assented to the Agreement.
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">19.12.&nbsp;&nbsp;Unless you have been named in the Agreement as a limited liability trustee (in which case the provisions of clause 19.13 will apply) all of you have full and unlimited personal liability for the repayment of the money owing and the compliance with all of the obligations in the Agreement.</span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">19.13.&nbsp;&nbsp;If you have been named in the Agreement as a limited liability trustee then FundTap will have no recourse to any of your assets which are not assets of the trust, except in respect of any loss incurred by FundTap:
+                </span>
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                a)&nbsp;&nbsp;by reason of your breach of trust;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                b)&nbsp;&nbsp;by reason of any lack of capacity, power or authority that you have to enter into the Agreement; or
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                c)&nbsp;&nbsp;resulting from your wilful default or dishonesty.
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">19.14.&nbsp;&nbsp;This Agreement may be executed in counterparts (which may be electronic or facsimile copies) and all of which, when taken together constitute the one document.</span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">19.15.&nbsp;&nbsp;We may have full recourse to all of the assets of the trust and will be subrogated to each trustee's right to be indemnified from those assets or to be indemnified by any other person (including any beneficiary of any trust).
+                </span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">19.16.&nbsp;&nbsp;Australian law governs the Agreement and all Purchases. The Australian courts have exclusive jurisdiction to hear any dispute arising out of or in connection with the Agreement and all Purchases and all parties irrevocably submit to such jurisdiction.
+                </span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">19.17.&nbsp;&nbsp;The Agreement shall be binding upon and inure to the benefit of the parties' respective heirs, successors, and assigns.</span>
+            </p>
+
+            <p class="MsoNormal"><span lang="EN-NZ" style="font-size: 1pt;">&nbsp;</span></p>
+        </div>
+
+        <table style="height: 50px; text-align: center; line-height: 35px; width: 522pt;">
+            <tr>
+                <td style="text-align: left;">
+                    <img src="{{ public_path('tc_v4_logo.png') }}" height="45px" /><br />
+                    <span style="display: inline-block; margin-top: -13pt; margin-left: 8pt; font-size: 8pt;">Version_{{config("fundtap.agreement_version.agreement_file_version")}}_AU</span>
+                </td>
+                <td style="text-align: right;">
+                    <span lang="EN-NZ" style="font-weight: 700; font-size: 14pt; font-family: 'Calibri', 'sans-serif'; color: black;">Initial here:____</span><span class="annature-anchor">@{{initialSignature}}</span><br />
+                    <span class="page-number">Page 9</span> of 12
+                </td>
+            </tr>
+        </table>
+
+        <div class="page text-line-height" style="height: 740pt;">
+            <p class="MsoNormal"><span lang="EN-NZ" style="font-size: 1pt;">&nbsp;</span></p>
+            <div class="Section1">
+                <h1><span lang="EN-NZ">SECTION 3: GUARANTEE</span></h1>                
+                <hr>
+            </div>
+            <p class="MsoNormal"><span lang="EN-NZ" style="font-size: 1pt;">&nbsp;</span></p>
+            <p class="MsoNormal">
+                <span lang="EN-NZ" style="mso-bidi-font-weight: normal; font-weight: 700; font-size: 10pt;"> DEFINITIONS: </span>
+            </p>
+            <p class="MsoNormal">
+                <span lang="EN-NZ"><b style="mso-bidi-font-weight: normal;">You</b> and related pronouns mean each person or entity signing or executing this document as guarantor.</span>
+            </p>
+            <p class="MsoNormal">
+                <span lang="EN-NZ"><b style="mso-bidi-font-weight: normal;">We </b> and related pronouns mean Seascape (2010) Ltd t/a FUNDTAP. </span>
+            </p>
+            <p class="MsoNormal">
+                <span lang="EN-NZ"><b style="mso-bidi-font-weight: normal;">Terms and Conditions </b> means FUNDTAP Terms and Conditions. </span>
+            </p>
+            <p class="MsoNormal">
+                <span lang="EN-NZ"><b style="mso-bidi-font-weight: normal;">Customer </b>means the person or entity selling accounts receivable to us and named in Section 1. </span>
+            </p>
+            <p class="MsoNormal">
+                <span lang="EN-NZ"><b style="mso-bidi-font-weight: normal;">Guarantee</b> means this document and all of its provisions.</span>
+            </p>
+            <p class="MsoNormal">
+                <span lang="EN-NZ"><b style="mso-bidi-font-weight: normal;">Guarantor</b> means the person named on in Section 1 as Guarantor: </span>
+            </p>
+            
+            <h1 style="padding-top: 5pt;">
+                <span style="color: #000000;">1.</span>
+                <span lang="EN-NZ"> GUARANTEE</span>
+            </h1>
+            <p class="MsoNormal"><span lang="EN-NZ" style="font-size: 1pt;">&nbsp;</span></p>
+
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">1.1.&nbsp;&nbsp;You acknowledge and agree that: FUNDTAP is not prepared to enter into the Terms and Conditions with the Customer without you first entering into this Guarantee; you irrevocably and unconditionally accept that the entry into the Terms and Conditions by FUNDTAP with the Customer constitutes valuable consideration for you entering into this Guarantee. Therefore, in consideration of FUNDTAP entering into the Terms and Conditions for purchasing of accounts receivable in accordance with such Terms and Conditions at your request as guarantor you agree and covenant as follows:
+                </span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">1.2.&nbsp;&nbsp;You guarantee as a primary obligor: </span>
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                1.2.1.&nbsp;&nbsp;the due and punctual payment of all of the money the Customer now or hereafter owes us; and
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                1.2.2.&nbsp;&nbsp;the due and punctual performance of all of the Customer's obligations pursuant to these Terms and Conditions. This Guarantee is an independent obligation of you to us.
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">1.3.&nbsp;&nbsp;You will indemnify FUNDTAP against any loss, liability, damages, costs (including legal costs on a solicitor client basis) and expenses it might suffer as a result of a default by the Customer of its obligations under the Terms and Conditions and/or a default by you of your obligations as guarantor herein.
+                </span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">1.4.&nbsp;&nbsp;No release, delay or other indulgence given by FUNDTAP to the Customer or any other thing whereby you would have been released had you been merely a surety, shall release, prejudice or affect the liability of you as guarantor hereunder or as an indemnifier.
+                </span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">1.5.&nbsp;&nbsp;As between you and FUNDTAP, you may for all purposes be treated as the Customer and FUNDTAP shall be under no obligation to take proceedings against the Customer before taking proceedings against you as guarantor.
+                </span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">1.6.&nbsp;&nbsp;Should there be more than one guarantor of the Customer's obligations to FUNDTAP then their liability will be joint and several. </span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">1.7.&nbsp;&nbsp;You acknowledge that you have had the opportunity to take independent legal advice on the legal effect of this guarantee and your obligations under it and have either taken such advice and decided to enter into this guarantee or have elected to waive the opportunity to take legal advice and have decided to enter into this guarantee in any event. You will not raise as a defence to any enforcement of your obligations under this guarantee that you were not given the opportunity to obtain or seek independent legal advice.
+                </span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">1.8.&nbsp;&nbsp;You will not be released from this guarantee by reason of any extension of time, compromise, renewal, indulgence, release or discharge granted by FUNDTAP to the Customer.</span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">1.9.&nbsp;&nbsp;You have read all of the provisions of the Terms and Conditions (and the other documentation referred to therein) and of this guarantee and acknowledge and agree that this guarantee is binding upon you notwithstanding that the Terms and Conditions or this guarantee may be in any way irregular or defective.
+                </span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">1.10.&nbsp;&nbsp;You acknowledge and agree that this guarantee is unconditional, and that no representations have been made to you affecting your liability under it, and you agree that it is in addition to and not in substitution for any other undertaking, indemnity or guarantee held, or which in the future may be held, by FUNDTAP.
+                </span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">1.11.&nbsp;&nbsp;You are bound by this Guarantee notwithstanding that you may not be so bound by reason of lack of capacity or power or otherwise.</span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">1.12.&nbsp;&nbsp;You agree that, in the exercise of our business judgment, we may take or omit any steps to protect our rights, including without limitation, the following: </span>
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                1.12.1.&nbsp;&nbsp;we may take, give up, modify, vary, exchange or renew any security from the Customer;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                1.12.2.&nbsp;&nbsp;we may abstain from perfecting an interest in or taking advantage of any security;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                1.12.3.&nbsp;&nbsp;we may accept or make compositions with the Customer's creditors or may make other arrangements;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                1.12.4.&nbsp;&nbsp;we may discharge or release any party or parties; or
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                1.12.5.&nbsp;&nbsp;we may amend or otherwise modify the Terms and Conditions. Any such action will not reduce or eliminate or otherwise reduce or alter your obligations under this Guarantee.
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">1.13.&nbsp;&nbsp;This Guarantee and your obligations hereunder will continue in effect until the Customer has completely performed all of its present and future obligations under the Terms and Conditions and we have received payment in full of all money the Customer owes or will owe to us.</span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">1.14.&nbsp;&nbsp;By signing this Guarantee, you represent and guarantee to us that the Customer, in whatever form it is doing business, is authorised to do business in this jurisdiction and that its directors, officers, members, partners and agents, as the case may be, have the powers and the authority to enter into a sale of accounts receivable to us and, in our sole discretion, a security agreement covering the accounts receivable and/or a security agreement in all your right, title and interest in all your present and after acquired personal property and all your other property and all proceeds thereof.
+                </span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">1.15.&nbsp;&nbsp;This Guarantee will continue in effect even if: </span>
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                1.15.1.&nbsp;&nbsp;a different person is carrying on the Customer's business at a later time;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                1.15.2.&nbsp;&nbsp;the Customer changes its business name
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                1.15.3.&nbsp;&nbsp;the Customer adds, removes or changes directors, officers, members, partners or agents; or
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                1.15.4.&nbsp;&nbsp;your relationship to the Customer changes.
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">1.16.&nbsp;&nbsp;You are presently informed of and will remain informed of the Customer's financial condition. Nothing herein obligates us to provide any financing or other financial accommodations to the Customer.
+                </span>
+            </p>
+        </div>
+
+        <table style="height: 50px; text-align: center; line-height: 35px; width: 522pt;">
+            <tr>
+                <td style="text-align: left;">
+                    <img src="{{ public_path('tc_v4_logo.png') }}" height="45px" /><br />
+                    <span style="display: inline-block; margin-top: -13pt; margin-left: 8pt; font-size: 8pt;">Version_{{config("fundtap.agreement_version.agreement_file_version")}}_AU</span>
+                </td>
+                <td style="text-align: right;">
+                    <span lang="EN-NZ" style="font-weight: 700; font-size: 14pt; font-family: 'Calibri', 'sans-serif'; color: black;">Initial here:____</span><span class="annature-anchor">@{{initialSignature}}</span><br />
+                    <span class="page-number">Page 10</span> of 12
+                </td>
+            </tr>
+        </table>
+
+        <div class="page text-line-height" style="height: 740pt;">
+
+            <h1 style="padding-top: 5pt;">
+                <span style="color: #000000;">2.</span>
+                <span lang="EN-NZ"> SECURITY:</span>
+            </h1>
+            <p class="MsoNormal"><span lang="EN-NZ" style="font-size: 1pt;">&nbsp;</span></p>
+            
+            <p class="MsoNormal">
+                <span lang="EN-NZ" style="mso-bidi-font-weight: normal; font-weight: 700; font-size: 10pt;">Personal Property</span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">2.1.&nbsp;&nbsp;To secure all your present and future payment and performance obligations to us, howsoever arising, you hereby grant us a continuing, first ranking and continuing Security Interest in all of your Personal Property.
+                </span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">2.2.&nbsp;&nbsp;You acknowledge and agree that FUNDTAP may register a financing statement on the PPSR over the Personal Property, in respect of such Security Interests. </span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">2.3.&nbsp;&nbsp;You hereby acknowledge and agree that this Guarantee constitutes a security agreement and creates "security interests" in terms of the PPSA.</span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">2.4.&nbsp;&nbsp;You warrant that you have notified and procured the consent of (or, if applicable, you will notify and agree to procure the consent of) all of your secured creditors in relation to the grant of the Security Interests referred to in this clause 2.
+                </span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">2.5.&nbsp;&nbsp;You waive the right to receive a copy of the verification statement confirming registration of a financing statement or financing change statement relating to the Security Interests under this Guarantee.
+                </span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">2.6.&nbsp;&nbsp;You agree that nothing in sections 130 and 143 of the PPSA shall apply to the Agreement, or the security under the Agreement, and waives the Customer’s rights under sections 132(3)(d), 132(4), 135, 137, 95 and 142 of the PPSA
+                </span>
+            </p>
+            <p class="MsoNormal">
+                <span lang="EN-NZ" style="mso-bidi-font-weight: normal; font-weight: 700; font-size: 10pt;"> Other Property</span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">2.7.&nbsp;&nbsp;You agree, as security in respect of present and future payment and performance obligations to us, to hereby charge, all of your Other Property in favour of FUNDTAP.</span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">2.8.&nbsp;&nbsp;The charge created over the Other Property is a fixed charge except where, but only to the extent that, that charge is not legally and fully effective as a fixed charge, in which event that charge will be a floating charge. If you fail to make payment or perform any obligations pursuant to this Guarantee, any floating charge will become a fixed charge automatically and immediately in relation to the Other Property subject to that floating charge without the need for any notice or act by FUNDTAP.
+                </span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">2.9.&nbsp;&nbsp;Without limiting anything in clause 8.7 you will, if required by FUNDTAP at any time, immediately:</span>
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                2.9.1.&nbsp;&nbsp;grant in favour of FUNDTAP an all obligations mortgage in the form required by FUNDTAP over such of your interests in any Real Property as FUNDTAP may require; and
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                2.9.2.&nbsp;&nbsp;deliver to FUNDTAP any agreement, and do any other thing FUNDTAP reasonably requires, in order to register any such mortgage.
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">2.10.&nbsp;&nbsp;Furthermore, you hereby consent to FUNDTAP lodging a caveat or caveats against the certificate(s) of the title to Real Property as notice of FUNDTAP’s interest arising under this Guarantee to mortgage.
+                </span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">2.11.&nbsp;&nbsp;You agree to execute any documents or do all such things as may be required by FUNDTAP to effect such security on demand by FUNDTAP.</span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">2.12.&nbsp;&nbsp;You covenant that the Other Property is only subject to the encumbrances and mortgages as may be disclosed to us and you agree not to sell, transfer, encumber, assign or agree to sell, transfer, encumber, assign or exchange your interest in the Other Property without obtaining FUNDTAP’s prior written consent.
+                </span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">2.13.&nbsp;&nbsp;You covenant to insure the buildings and improvements on the Real Property for their full replacement value against fire, accident, earthquake, weather damage and such other risks as we may require in our names for our respective rights and interests and with an insurer approved by us and to pay all premiums for the insurance and upon request by us produce policies and premium receipts to us.
+                </span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">2.14.&nbsp;&nbsp;Except to the extent inconsistent with the terms of this Guarantee, the covenants implied in Part 1 of Schedule 2 of the Property Law Act 2007 in relation to mortgages over Real Property are implied in the respect of each mortgage given under this Guarantee.
+                </span>
+            </p>
+            <p class="MsoNormal">
+                <span lang="EN-NZ" style="mso-bidi-font-weight: normal; font-weight: 700; font-size: 10pt;">General </span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">2.15.&nbsp;&nbsp;We have the right to take possession of any Secured Property if this is required to enable us to perfect our Security Interest(s).</span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">2.16.&nbsp;&nbsp;We may, at all reasonable times, either personally or by agents, enter upon your premises to inspect the Secured Property. </span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">2.17.&nbsp;&nbsp;The Securities shall remain in full force while there is any money owed to us by you and shall extend to cover any sum of money which may become owing from you to us until a final release has been executed by us.
+                </span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">2.18.&nbsp;&nbsp;At FUNDTAP's request, you must, at your own cost, promptly execute and deliver to FUNDTAP all assignments, transfers, charges and other agreements and documents, and to do or provide anything else which FUNDTAP may deem appropriate to:
+                </span>
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                2.18.1.&nbsp;&nbsp;perfect your title to any Secured Property;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                2.18.2.&nbsp;&nbsp;perfect a Security Interest intended to be created under this Guarantee;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                2.18.3.&nbsp;&nbsp;facilitate the realisation of any of the Secured Property; or
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                2.18.4.&nbsp;&nbsp;secure to FUNDTAP the full benefit of its rights under this Guarantee.
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">2.19.&nbsp;&nbsp;In this Clause 2 and 3:</span>
+            </p>
+            <p class="MsoNormal">
+                <span lang="EN-NZ"><b style="mso-bidi-font-weight: normal;">Other Property </b> means your Real Property and all of your other present and after-acquired property that is not Personal Property.</span>
+            </p>
+            <p class="MsoNormal">
+                <span lang="EN-NZ"><b style="mso-bidi-font-weight: normal;">Personal Property </b> means all of the Customer’s present and after-acquired personal property (with ‘personal property’ having the term given in the PPSA).</span>
+            </p>
+            <p class="MsoNormal">
+                <span lang="EN-NZ"><b style="mso-bidi-font-weight: normal;">PPSA</b> means the Personal Property Securities Act 2009 (Cth).</span>
+            </p>
+            <p class="MsoNormal">
+                <span lang="EN-NZ"><b style="mso-bidi-font-weight: normal;">Real Property</b> means all of your present and after-acquired freehold and leasehold land, all estates and interests in land and all buildings, structures and fixtures (including trade fixtures) for the time being on that land.
+                </span>
+            </p>
+            <p class="MsoNormal">
+                <span lang="EN-NZ"><b style="mso-bidi-font-weight: normal;">Security Interest </b> means</span>
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                (a)&nbsp;&nbsp;in relation to Real Property, an interest in Real Property under a caveat and / or mortgage and includes any unregistered charge on any Real Property and any interest in any Real Property granted or created for securing money or payment or performance of an obligation;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                (b)&nbsp;&nbsp;in relation to Personal Property, has the meaning set out in section 10 of the PPSA; and
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                (c)&nbsp;&nbsp;in relation to Other Property, an interest in that property that has been created for the purpose of securing money or obligations.
+            </p>
+            <p class="MsoNormal">
+                <span lang="EN-NZ"><b style="mso-bidi-font-weight: normal;">Secured Property</b> means any Personal Property or Other Property over which a security interest is created and/or a mortgage is granted (as applicable) by you under this Guarantee, as security in respect of your payment and performance obligations.
+                </span>
+            </p>
+        </div>
+
+        <table style="height: 50px; text-align: center; line-height: 35px; width: 522pt;">
+            <tr>
+                <td style="text-align: left;">
+                    <img src="{{ public_path('tc_v4_logo.png') }}" height="45px" /><br />
+                    <span style="display: inline-block; margin-top: -13pt; margin-left: 8pt; font-size: 8pt;">Version_{{config("fundtap.agreement_version.agreement_file_version")}}_AU</span>
+                </td>
+                <td style="text-align: right;">
+                    <span lang="EN-NZ" style="font-weight: 700; font-size: 14pt; font-family: 'Calibri', 'sans-serif'; color: black;">Initial here:____</span><span class="annature-anchor">@{{initialSignature}}</span><br />
+                    <span class="page-number">Page 11</span> of 12
+                </td>
+            </tr>
+        </table>
+
+        <div class="page text-line-height" style="height: 740pt;">         
+            
+            <h1 style="padding-top: 5pt;">
+                <span style="color: #000000;">3.</span>
+                <span lang="EN-NZ"> ENFORCEMENT AND WAIVERS:</span>
+            </h1>
+            <p class="MsoNormal"><span lang="EN-NZ" style="font-size: 1pt;">&nbsp;</span></p>
+            
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">3.1.&nbsp;&nbsp;We may enforce this Guarantee without first having to take any other steps to require the Customer or any other person or entity to cure the default, or otherwise take any action respecting collateral or security, or take any other action. As part of any such enforcement action we may:
+                </span>
+            </p>
+            
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                3.1.1.&nbsp;&nbsp;exercise any rights that we have under this Guarantee or that are available to us at law;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                3.1.2.&nbsp;&nbsp;obtain judgment and enforce such judgment against you for any monies owed by you to us under this Guarantee;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                3.1.3.&nbsp;&nbsp;enforce each Security Interest created by this Guarantee;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                3.1.4.&nbsp;&nbsp;enter onto your premises;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                3.1.5.&nbsp;&nbsp;take or demand possession of all or any of the Secured Property and do all things necessary to exercise that right;
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                3.1.6.&nbsp;&nbsp;do all things and exercise any right or power that you may do or exercise in relation to the Secured Property; and
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                3.1.7.&nbsp;&nbsp;appoint any person or persons to be receiver or a receiver and manager in respect of all or any of the Secured Property, with such receiver or manager having:
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 55.3pt; tab-stops: 55.3pt;">
+                3.1.7.1.&nbsp;&nbsp;all the rights conferred on receivers and managers by law (including under Chapter 5 of the Corporations Act 2001 (Cth));
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 55.3pt; tab-stops: 55.3pt;">
+                3.1.7.2.&nbsp;&nbsp;all the rights of FundTap under this clause 3 (whether or not those rights are yet enforceable by the Secured Party);
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 55.3pt; tab-stops: 55.3pt;">
+                3.1.7.3.&nbsp;&nbsp;all the rights of a natural person in relation to the Secured Property and your businesses and operations; and
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 55.3pt; tab-stops: 55.3pt;">
+                3.1.7.4.&nbsp;&nbsp;all other rights conferred by law (including under Part 9 of the PPSA) in relation to the Secured Property, and
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 55.3pt; tab-stops: 55.3pt;">
+                3.1.7.5.&nbsp;&nbsp;appoint a debt collector to recover any monies owed by you to us.
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">3.2.&nbsp;&nbsp;You waive any defence based on claims of election of remedies which in any way impairs, diminishes, or extinguishes your subrogation rights, rights to proceed against the Customer for reimbursement, or any other rights to proceed against any other party or security.
+                </span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">3.3.&nbsp;&nbsp;You waive all demands, presentments, and notices of protest and of dishonour and notices of every kind.</span>
+            </p>
+
+            <h1 style="padding-top: 5pt;">
+                <span style="color: #000000;">4.</span>
+                <span lang="EN-NZ"> SUBORDINATION OF SELLER'S DEBTS TO YOU:</span>
+            </h1>
+            <p class="MsoNormal"><span lang="EN-NZ" style="font-size: 1pt;">&nbsp;</span></p>
+
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">4.1.&nbsp;&nbsp;You hereby subordinate all of the Customer's present and future debts and liabilities to you to the Customer's full payment of its liabilities to us. You agree to receive as trustee for us all moneys you receive from the Customer and to pay us the same in kind without delay.
+                </span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">4.2.&nbsp;&nbsp;If the Customer goes bankrupt, enters into any liquidation, or suffers a distribution of assets or otherwise commits an act of insolvency or bankruptcy, you will immediately assign to us all claims you have by reason of all debts and liabilities the Customer owes to you, and we shall receive all dividends and payments thereon until payment in full of all money the Customer owes to us. This Guarantee shall constitute your assignment of all such claims.
+                </span>
+            </p>
+            
+            <h1 style="padding-top: 5pt;">
+                <span style="color: #000000;">5.</span>
+                <span lang="EN-NZ"> COSTS AND LEGAL FEES:</span>
+            </h1>
+            <p class="MsoNormal"><span lang="EN-NZ" style="font-size: 1pt;">&nbsp;</span></p>
+
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">5.1.&nbsp;&nbsp;You agree to pay on a full indemnity basis all our legal and professional fees and all other costs and expenses we incur in enforcing, or attempting to enforce, or otherwise in any way arising out of any breach by the Customer in the performance of the Terms and Conditions or any breach by you of this Guarantee.
+                </span>
+            </p>
+            
+            <h1 style="padding-top: 5pt;">
+                <span style="color: #000000;">6.</span>
+                <span lang="EN-NZ"> ADDITIONAL PROVISIONS:</span>
+            </h1>
+            <p class="MsoNormal"><span lang="EN-NZ" style="font-size: 1pt;">&nbsp;</span></p>
+
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">6.1.&nbsp;&nbsp;Successors and Assigns.</span>
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                6.1.1.&nbsp;&nbsp;This Guarantee and each and every representation you make by signing it shall bind you, your heirs, administrators, executors, successors and assigns, and it shall inure to our benefit and that of our heirs, administrators, executors, successors and assigns.
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                6.1.2.&nbsp;&nbsp;FUNDTAP may assign any of its rights and obligations to any person or legal entity. You may not assign any of your rights and obligations to any person or legal entity without the prior consent of FUNDTAP.
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 35.3pt; tab-stops: 35.3pt;">
+                6.1.3.&nbsp;&nbsp;For the purposes of clause 6.1.2
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 55.3pt; tab-stops: 55.3pt;">
+                6.1.3.1.&nbsp;&nbsp;if you are a company, any proposed change in your shareholding altering your effective control; or
+            </p>
+            <p class="MsoListParagraphCxSpFirst" style="margin-left: 55.3pt; tab-stops: 55.3pt;">
+                6.1.3.2.&nbsp;&nbsp;if you are a trust, any change in trustees, will be a deemed assignment.
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">6.2.&nbsp;&nbsp;Governing Law. This Guarantee shall be governed by and shall be construed in accordance with the laws of Australia and is performable in Australia and you submit to the non-exclusive jurisdiction of the Australian Courts in respect of any matter arising out of this Guarantee and the subject matter thereof.
+                </span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">6.3.&nbsp;&nbsp;Severability. If any term or provision herein shall be held to be invalid, illegal, or unenforceable, this Guarantee shall be construed as if such invalid, illegal and/or unenforceable provision were not contained herein.
+                </span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">6.4.&nbsp;&nbsp;Joint and Several Liability. Each obligation hereunder shall be joint and several.</span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">6.5.&nbsp;&nbsp;This Guarantee embodies the entire understanding between the parties with respect to its subject matter. It cannot be amended or terminated orally. </span>
+            </p>
+            <p class="MsoNormal" style="margin-left: 0.7cm; text-indent: -0.7cm;">
+                <span lang="EN-NZ">6.6.&nbsp;&nbsp;The venue for resolving any dispute is any Court in Australia having jurisdiction to hear the matter. We and you each hereby waive irrevocably all right to trial by jury in any action, proceeding or counterclaim arising out of or relating hereto, any documents delivered in connection herewith or the transactions contemplated hereby or thereby. We and you acknowledge that this waiver is a material inducement to FUNDTAP to enter into this Guarantee.
+                </span>
+            </p>
+        </div>
+
+        <table style="height: 50px; text-align: center; line-height: 35px; width: 522pt;">
+            <tr>
+                <td style="text-align: left;">
+                    <img src="{{ public_path('tc_v4_logo.png') }}" height="45px" /><br />
+                    <span style="display: inline-block; margin-top: -13pt; margin-left: 8pt; font-size: 8pt;">Version_{{config("fundtap.agreement_version.agreement_file_version")}}_AU</span>
+                </td>
+                <td style="text-align: right;">
+                    <span lang="EN-NZ" style="font-weight: 700; font-size: 14pt; font-family: 'Calibri', 'sans-serif'; color: black;">Initial here:____</span><span class="annature-anchor">@{{initialSignature}}</span><br />
+                    <span class="page-number">Page 12</span> of 12
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>
